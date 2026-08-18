@@ -14,7 +14,7 @@
             "last_commit": "2026-08-16T03:14:26Z",
             "owner": "RubixML",
             "repo": "ML",
-            "stars": 2203
+            "stars": 2202
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T18:25:14Z",
+            "last_commit": "2026-08-18T10:19:11Z",
             "owner": "openai-php",
             "repo": "client",
-            "stars": 5827
+            "stars": 5825
           }
         },
         {
@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T18:25:14Z",
+            "last_commit": "2026-08-18T10:19:11Z",
             "owner": "openai-php",
             "repo": "client",
-            "stars": 5827
+            "stars": 5825
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-16T03:14:26Z",
             "owner": "RubixML",
             "repo": "ML",
-            "stars": 2203
+            "stars": 2202
           }
         },
         {
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T11:36:14Z",
+            "last_commit": "2026-08-17T14:13:32Z",
             "owner": "flow-php",
             "repo": "flow",
             "stars": 866
@@ -172,7 +172,7 @@
             "last_commit": "2020-06-01T20:58:29Z",
             "owner": "php-ai",
             "repo": "php-ml-examples",
-            "stars": 206
+            "stars": 205
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-16T03:14:26Z",
             "owner": "RubixML",
             "repo": "ML",
-            "stars": 2203
+            "stars": 2202
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-16T14:44:26Z",
             "owner": "Intervention",
             "repo": "image",
-            "stars": 14368
+            "stars": 14367
           }
         },
         {
@@ -706,10 +706,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T18:25:14Z",
+            "last_commit": "2026-08-18T10:19:11Z",
             "owner": "openai-php",
             "repo": "client",
-            "stars": 5827
+            "stars": 5825
           }
         },
         {
@@ -804,10 +804,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T09:44:34Z",
+            "last_commit": "2026-08-17T12:33:33Z",
             "owner": "aimeos",
             "repo": "prisma",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -860,10 +860,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T20:43:46Z",
+            "last_commit": "2026-08-18T00:36:18Z",
             "owner": "dg",
             "repo": "ai-access",
-            "stars": 56
+            "stars": 59
           }
         },
         {
@@ -1118,7 +1118,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-31T21:27:35Z",
+            "last_commit": "2026-08-18T02:43:33Z",
             "owner": "logiscape",
             "repo": "mcp-sdk-php",
             "stars": 368
@@ -1321,7 +1321,7 @@
             "last_commit": "2026-08-15T16:00:34Z",
             "owner": "pgvector",
             "repo": "pgvector",
-            "stars": 22650
+            "stars": 22661
           }
         },
         {
@@ -1360,7 +1360,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T22:01:27Z",
+            "last_commit": "2026-08-17T13:29:44Z",
             "owner": "algolia",
             "repo": "algoliasearch-client-php",
             "stars": 697
@@ -1562,7 +1562,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T11:36:14Z",
+            "last_commit": "2026-08-17T14:13:32Z",
             "owner": "flow-php",
             "repo": "flow",
             "stars": 866
@@ -1576,7 +1576,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-16T14:41:32Z",
+            "last_commit": "2026-08-17T17:44:17Z",
             "owner": "paperdoc-dev",
             "repo": "paperdoc-lib",
             "stars": 134
@@ -1596,7 +1596,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T15:38:08Z",
+            "last_commit": "2026-08-18T10:09:19Z",
             "owner": "neuron-core",
             "repo": "neuron-ai",
             "stars": 2054
@@ -1610,7 +1610,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T23:32:32Z",
+            "last_commit": "2026-08-18T06:32:23Z",
             "owner": "googleapis",
             "repo": "google-cloud-php",
             "stars": 1181
@@ -1728,7 +1728,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T09:26:15Z",
+            "last_commit": "2026-08-17T13:22:03Z",
             "owner": "symfony",
             "repo": "console",
             "stars": 9808
@@ -1745,7 +1745,7 @@
             "last_commit": "2026-08-04T15:20:01Z",
             "owner": "nunomaduro",
             "repo": "collision",
-            "stars": 4657
+            "stars": 4658
           }
         },
         {
@@ -1756,7 +1756,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T08:34:35Z",
+            "last_commit": "2026-08-17T13:22:05Z",
             "owner": "symfony",
             "repo": "http-client",
             "stars": 2029
@@ -1770,7 +1770,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-10T21:11:54Z",
+            "last_commit": "2026-08-17T21:12:56Z",
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 393
@@ -1787,7 +1787,7 @@
             "last_commit": "2026-03-11T19:54:49Z",
             "owner": "context-hub",
             "repo": "generator",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -1879,10 +1879,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T11:57:10Z",
+            "last_commit": "2026-08-18T00:33:11Z",
             "owner": "laravel",
             "repo": "boost",
-            "stars": 3579
+            "stars": 3581
           }
         },
         {
@@ -1893,10 +1893,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T11:21:28Z",
+            "last_commit": "2026-08-17T23:13:52Z",
             "owner": "laravel",
             "repo": "ai",
-            "stars": 1102
+            "stars": 1103
           }
         },
         {
@@ -2069,20 +2069,6 @@
         },
         {
           "node_type": "item",
-          "title": "coding-wisely/taskallama",
-          "description": "Laravel package for seamless integration with the Ollama LLM API for AI-powered content generation, task assistance, conversation and embeddings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-20T19:03:41Z",
-            "owner": "coding-wisely",
-            "repo": "taskallama",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Capevace/llm-magic",
           "description": "Laravel-centric LLM toolkit with support for AI features like chat and structured data extraction",
           "children": [],
@@ -2150,6 +2136,12 @@
             "repo": "laravel-openai",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "coding-wisely/taskallama",
+          "description": "Laravel package for seamless integration with the Ollama LLM API for AI-powered content generation, task assistance, conversation and embeddings",
+          "children": []
         }
       ],
       "title": "LLM & AI clients"
@@ -2168,7 +2160,7 @@
             "last_commit": "2026-03-20T20:37:40Z",
             "owner": "prism-php",
             "repo": "prism",
-            "stars": 2412
+            "stars": 2413
           }
         },
         {
@@ -2213,7 +2205,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T04:26:01Z",
+            "last_commit": "2026-08-18T11:10:33Z",
             "owner": "jayeshmepani",
             "repo": "laravel-gemini-translator",
             "stars": 70
@@ -2284,7 +2276,7 @@
             "last_commit": "2026-08-10T17:17:17Z",
             "owner": "laravel",
             "repo": "scout",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -2295,7 +2287,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-11T22:14:19Z",
+            "last_commit": "2026-08-18T10:09:07Z",
             "owner": "teamtnt",
             "repo": "laravel-scout-tntsearch-driver",
             "stars": 1136
@@ -2318,7 +2310,7 @@
             "last_commit": "2026-08-17T06:55:36Z",
             "owner": "symfony",
             "repo": "ai",
-            "stars": 1180
+            "stars": 1182
           }
         },
         {
@@ -2441,7 +2433,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32652
+            "stars": 32653
           }
         },
         {
@@ -2478,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:02:38.680Z",
+    "last_updated": "2026-08-18T12:14:26.540Z",
     "original_repository": "apphp/awesome-php-ml",
     "original_repository_sha": "1c065d0f199d717b32e6384df02e0f1a6157869f",
     "enhanced_repository": "enhansome/enhansome-php-ml",
