@@ -1600,7 +1600,7 @@
             "archived": false,
             "id": 14875475,
             "language": "PHP",
-            "last_commit": "2026-08-19T09:52:11Z",
+            "last_commit": "2026-08-19T12:25:05Z",
             "owner": "thephpleague",
             "repo": "csv",
             "stars": 3480
@@ -2628,7 +2628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:20.776Z",
+    "last_updated": "2026-08-19T12:44:57.632Z",
     "original_repository": "apphp/awesome-php-ml",
     "original_repository_id": 1122481530,
     "original_repository_sha": "1c065d0f199d717b32e6384df02e0f1a6157869f",

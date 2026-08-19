@@ -74,7 +74,7 @@ Want to add a project? See the [Contributing](#contributing) section below for i
 ## How to use this list
 
 * **Classic ML / traditional models** – start with [php-ai/php-ml](https://gitlab.com/php-ai/php-ml) and [RubixML/RubixML](https://github.com/RubixML/RubixML) ⭐ 2,203 | 🐛 72 | 🌐 PHP | 📅 2026-08-18.
-* **RAG (Retrieval-Augmented Generation)** – combine [php-rag](https://github.com/mzarnecki/php-rag) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-07-19 with vector databases like [pgvector](https://github.com/pgvector/pgvector) ⭐ 22,672 | 🐛 15 | 🌐 C | 📅 2026-08-15 or [Meilisearch](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-08-11.
+* **RAG (Retrieval-Augmented Generation)** – combine [php-rag](https://github.com/mzarnecki/php-rag) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-07-19 with vector databases like [pgvector](https://github.com/pgvector/pgvector) ⭐ 22,672 | 🐛 14 | 🌐 C | 📅 2026-08-15 or [Meilisearch](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-08-11.
 * **LLM-powered apps & agents** – see [LLMs & AI APIs](#llms--ai-apis), [Embeddings & Vector Search](#embeddings--vector-search), and framework integrations (Laravel/Symfony).
 * **Numerical computing & math** – explore [Core ML Infrastructure](#core-ml-infrastructure) for tensors and matrices, and [Math, Statistics & Linear Algebra](#math-statistics--linear-algebra) for statistics and related math.
 * **Production integration** – use [Interop & Model Serving](#interop--model-serving) and framework integrations to wire models into real apps.
@@ -105,7 +105,7 @@ composer require llphant/llphant
 ### Example "recipes"
 
 * **I want to build a Laravel RAG app**\
-  Use an LLM client like 🌟 [openai-php/client](https://github.com/openai-php/client) ⭐ 5,826 | 🐛 26 | 🌐 PHP | 📅 2026-08-18, embeddings + vector search via 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 35 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,672 | 🐛 15 | 🌐 C | 📅 2026-08-15 or 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-08-11, and orchestrate agents/RAG flows with 🌟 [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) ⭐ 2,056 | 🐛 7 | 🌐 PHP | 📅 2026-08-18, integrating into Laravel using 🌟 [openai-php/laravel](https://github.com/openai-php/laravel) ⭐ 3,748 | 🐛 13 | 🌐 PHP | 📅 2026-07-27 and the packages under [Laravel & Framework Integrations](#laravel--framework-integrations).
+  Use an LLM client like 🌟 [openai-php/client](https://github.com/openai-php/client) ⭐ 5,826 | 🐛 26 | 🌐 PHP | 📅 2026-08-18, embeddings + vector search via 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 35 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,672 | 🐛 14 | 🌐 C | 📅 2026-08-15 or 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-08-11, and orchestrate agents/RAG flows with 🌟 [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) ⭐ 2,056 | 🐛 7 | 🌐 PHP | 📅 2026-08-18, integrating into Laravel using 🌟 [openai-php/laravel](https://github.com/openai-php/laravel) ⭐ 3,748 | 🐛 13 | 🌐 PHP | 📅 2026-07-27 and the packages under [Laravel & Framework Integrations](#laravel--framework-integrations).
 
 * **I only need translation or vision**\
   For translation, see 🌟 [deepl-php](https://github.com/DeepLcom/deepl-php) ⭐ 257 | 🐛 27 | 🌐 PHP | 📅 2026-08-12 and 🌟 [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ⭐ 1,181 | 🐛 61 | 🌐 PHP | 📅 2026-08-19 under [Interop & Model Serving](#interop--model-serving). For image/vision workloads, combine [Computer Vision, Image & Video Processing](#computer-vision-image--video-processing) libraries with cloud AI services via 🌟 [symfony/ai](https://github.com/symfony/ai) ⭐ 1,182 | 🐛 183 | 🌐 PHP | 📅 2026-08-17 or [openai-php/client](https://github.com/openai-php/client) ⭐ 5,826 | 🐛 26 | 🌐 PHP | 📅 2026-08-18 from [LLMs & AI APIs](#llms--ai-apis).
@@ -116,7 +116,7 @@ These are opinionated defaults you can reach for when you just want something th
 
 * **LLM clients:** 🌟 [openai-php/client](https://github.com/openai-php/client) ⭐ 5,826 | 🐛 26 | 🌐 PHP | 📅 2026-08-18 and 🌟 [google-gemini-php/client](https://github.com/google-gemini-php/client) ⭐ 409 | 🐛 8 | 🌐 PHP | 📅 2025-12-29 for major model providers.
 * **General ML:** 🌟 [RubixML/RubixML](https://github.com/RubixML/RubixML) ⭐ 2,203 | 🐛 72 | 🌐 PHP | 📅 2026-08-18 for end-to-end ML pipelines.
-* **Embeddings & vector search:** 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 35 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,672 | 🐛 15 | 🌐 C | 📅 2026-08-15, 🌟 [pgvector/pgvector-php](https://github.com/pgvector/pgvector-php) ⭐ 199 | 🐛 0 | 🌐 PHP | 📅 2026-07-09, 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-08-11 or 🌟 [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) ⭐ 697 | 🐛 20 | 🌐 PHP | 📅 2026-08-18.
+* **Embeddings & vector search:** 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 35 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,672 | 🐛 14 | 🌐 C | 📅 2026-08-15, 🌟 [pgvector/pgvector-php](https://github.com/pgvector/pgvector-php) ⭐ 199 | 🐛 0 | 🌐 PHP | 📅 2026-07-09, 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-08-11 or 🌟 [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) ⭐ 697 | 🐛 20 | 🌐 PHP | 📅 2026-08-18.
 * **Data processing:** 🌟 [flow-php/flow](https://github.com/flow-php/flow) ⭐ 866 | 🐛 36 | 🌐 PHP | 📅 2026-08-17 for typed ETL-style pipelines.
 * **Interop with Python ML:** 🌟 [swoole/phpy](https://github.com/swoole/phpy) ⭐ 650 | 🐛 3 | 🌐 PHP | 📅 2026-08-19 to call into the Python ecosystem when needed.
 
@@ -291,7 +291,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 *Libraries for generating embeddings and performing vector similarity search from PHP applications.*
 
-* 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector "Link to resource") ⭐ 22,672 | 🐛 15 | 🌐 C | 📅 2026-08-15 – ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) Vector similarity search extension for PostgreSQL
+* 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector "Link to resource") ⭐ 22,672 | 🐛 14 | 🌐 C | 📅 2026-08-15 – ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) Vector similarity search extension for PostgreSQL
 * 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant "Link to resource") ⭐ 1,708 | 🐛 35 | 🌐 PHP | 📅 2026-07-26 – ![GitHub stars](https://img.shields.io/github/stars/LLPhant/LLPhant?style=social) Comprehensive PHP generative AI framework supporting LLMs, embeddings, vector search and more
 * 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php "Link to resource") ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-08-11 – ![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch-php?style=social) Client for Meilisearch search engine
 * 🌟 [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php "Link to resource") ⭐ 697 | 🐛 20 | 🌐 PHP | 📅 2026-08-18 – ![GitHub stars](https://img.shields.io/github/stars/algolia/algoliasearch-client-php?style=social) Algolia search client
@@ -310,7 +310,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 *ETL, data pipelines, serialization, and transformation utilities for preparing data for ML and analytics in PHP.*
 
-* [league/csv](https://github.com/thephpleague/csv "Link to resource") ⭐ 3,480 | 🐛 3 | 🌐 PHP | 📅 2026-08-19 – CSV data processing
+* [league/csv](https://github.com/thephpleague/csv "Link to resource") ⭐ 3,480 | 🐛 4 | 🌐 PHP | 📅 2026-08-19 – CSV data processing
 * 🌟 [cocur/slugify](https://github.com/cocur/slugify "Link to resource") ⭐ 2,900 | 🐛 32 | 🌐 PHP | 📅 2025-11-27 – ![GitHub stars](https://img.shields.io/github/stars/cocur/slugify?style=social) Converts strings into URL-friendly slugs, includes integrations for many frameworks
 * [symfony/serializer](https://github.com/symfony/serializer "Link to resource") ⭐ 2,536 | 🐛 0 | 🌐 PHP | 📅 2026-08-19 – Data normalization & serialization
 * [spatie/data-transfer-object](https://github.com/spatie/data-transfer-object "Link to resource") ⚠️ Archived – Strongly typed DTOs
