@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121482350,
             "language": "PHP",
-            "last_commit": "2026-08-16T03:14:26Z",
+            "last_commit": "2026-08-18T20:18:39Z",
             "owner": "RubixML",
             "repo": "ML",
-            "stars": 2202
+            "stars": 2203
           }
         },
         {
@@ -24,125 +25,135 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804026875,
             "language": "PHP",
             "last_commit": "2026-07-19T13:48:25Z",
             "owner": "mzarnecki",
             "repo": "php-rag",
             "stars": 67
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "I want to build a Laravel RAG appUse an LLM client like 🌟 openai-php/client",
+              "description": ", embeddings + vector search via 🌟 LLPhant/LLPhant with 🌟 pgvector/pgvector or 🌟 meilisearch/meilisearch-php, and orchestrate agents/RAG flows with 🌟 neuron-core/neuron-ai, integrating into Laravel using 🌟 openai-php/laravel and the packages under Laravel & Framework Integrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541322916,
+                "language": "PHP",
+                "last_commit": "2026-08-18T10:19:11Z",
+                "owner": "openai-php",
+                "repo": "client",
+                "stars": 5826
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "I only need translation or visionFor translation, see 🌟 deepl-php",
+              "description": "and 🌟 googleapis/google-cloud-php under Interop & Model Serving. For image/vision workloads, combine Computer Vision, Image & Video Processing libraries with cloud AI services via 🌟 symfony/ai or openai-php/client from LLMs & AI APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470923385,
+                "language": "PHP",
+                "last_commit": "2026-08-12T01:31:55Z",
+                "owner": "DeepL",
+                "repo": "deepl-php",
+                "stars": 257
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Example \"recipes\""
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLM clients: 🌟 openai-php/client",
+              "description": "and 🌟 google-gemini-php/client for major model providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541322916,
+                "language": "PHP",
+                "last_commit": "2026-08-18T10:19:11Z",
+                "owner": "openai-php",
+                "repo": "client",
+                "stars": 5826
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "General ML: 🌟 RubixML/RubixML",
+              "description": "for end-to-end ML pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121482350,
+                "language": "PHP",
+                "last_commit": "2026-08-18T20:18:39Z",
+                "owner": "RubixML",
+                "repo": "ML",
+                "stars": 2203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embeddings & vector search: 🌟 LLPhant/LLPhant",
+              "description": "with 🌟 pgvector/pgvector, 🌟 pgvector/pgvector-php, 🌟 meilisearch/meilisearch-php or 🌟 algolia/algoliasearch-client-php.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672847735,
+                "language": "PHP",
+                "last_commit": "2026-07-26T08:28:11Z",
+                "owner": "LLPhant",
+                "repo": "LLPhant",
+                "stars": 1708
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data processing: 🌟 flow-php/flow",
+              "description": "for typed ETL-style pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370006659,
+                "language": "PHP",
+                "last_commit": "2026-08-17T14:13:32Z",
+                "owner": "flow-php",
+                "repo": "flow",
+                "stars": 866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Interop with Python ML: 🌟 swoole/phpy",
+              "description": "to call into the Python ecosystem when needed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727141597,
+                "language": "PHP",
+                "last_commit": "2026-08-19T10:45:40Z",
+                "owner": "swoole",
+                "repo": "phpy",
+                "stars": 650
+              }
+            }
+          ],
+          "description": "These are opinionated defaults you can reach for when you just want something that works in production.",
+          "node_type": "group",
+          "title": "Recommended core stack"
         }
       ],
       "title": "How to use this list"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "I want to build a Laravel RAG appUse an LLM client like 🌟 openai-php/client",
-          "description": ", embeddings + vector search via 🌟 LLPhant/LLPhant with 🌟 pgvector/pgvector or 🌟 meilisearch/meilisearch-php, and orchestrate agents/RAG flows with 🌟 neuron-core/neuron-ai, integrating into Laravel using 🌟 openai-php/laravel and the packages under Laravel & Framework Integrations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T10:19:11Z",
-            "owner": "openai-php",
-            "repo": "client",
-            "stars": 5825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "I only need translation or visionFor translation, see 🌟 deepl-php",
-          "description": "and 🌟 googleapis/google-cloud-php under Interop & Model Serving. For image/vision workloads, combine Computer Vision, Image & Video Processing libraries with cloud AI services via 🌟 symfony/ai or openai-php/client from LLMs & AI APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-12T01:31:55Z",
-            "owner": "DeepL",
-            "repo": "deepl-php",
-            "stars": 257
-          }
-        }
-      ],
-      "title": "Example \"recipes\""
-    },
-    {
-      "description": "These are opinionated defaults you can reach for when you just want something that works in production.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LLM clients: 🌟 openai-php/client",
-          "description": "and 🌟 google-gemini-php/client for major model providers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T10:19:11Z",
-            "owner": "openai-php",
-            "repo": "client",
-            "stars": 5825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "General ML: 🌟 RubixML/RubixML",
-          "description": "for end-to-end ML pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-16T03:14:26Z",
-            "owner": "RubixML",
-            "repo": "ML",
-            "stars": 2202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Embeddings & vector search: 🌟 LLPhant/LLPhant",
-          "description": "with 🌟 pgvector/pgvector, 🌟 pgvector/pgvector-php, 🌟 meilisearch/meilisearch-php or 🌟 algolia/algoliasearch-client-php.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-26T08:28:11Z",
-            "owner": "LLPhant",
-            "repo": "LLPhant",
-            "stars": 1708
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Data processing: 🌟 flow-php/flow",
-          "description": "for typed ETL-style pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-17T14:13:32Z",
-            "owner": "flow-php",
-            "repo": "flow",
-            "stars": 866
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Interop with Python ML: 🌟 swoole/phpy",
-          "description": "to call into the Python ecosystem when needed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-14T10:04:05Z",
-            "owner": "swoole",
-            "repo": "phpy",
-            "stars": 650
-          }
-        }
-      ],
-      "title": "Recommended core stack"
     },
     {
       "description": "Core PHP libraries for supervised/unsupervised learning, classification, regression, and clustering.",
@@ -154,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 770946179,
             "language": "PHP",
             "last_commit": "2025-09-15T15:46:12Z",
             "owner": "CodeWithKyrian",
@@ -168,6 +180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268630824,
             "language": "PHP",
             "last_commit": "2020-06-01T20:58:29Z",
             "owner": "php-ai",
@@ -182,6 +195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16748633,
             "language": "PHP",
             "last_commit": "2024-09-28T19:36:50Z",
             "owner": "jbboehr",
@@ -196,6 +210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91972171,
             "language": "PHP",
             "last_commit": "2017-12-28T08:11:05Z",
             "owner": "danielefavi",
@@ -210,6 +225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 948052102,
             "language": "PHP",
             "last_commit": "2026-02-10T15:28:31Z",
             "owner": "sphamster",
@@ -230,11 +246,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121482350,
             "language": "PHP",
-            "last_commit": "2026-08-16T03:14:26Z",
+            "last_commit": "2026-08-18T20:18:39Z",
             "owner": "RubixML",
             "repo": "ML",
-            "stars": 2202
+            "stars": 2203
           }
         },
         {
@@ -244,6 +261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238185648,
             "language": "PHP",
             "last_commit": "2025-03-22T05:13:46Z",
             "owner": "rindow",
@@ -264,6 +282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77310028,
             "language": "PHP",
             "last_commit": "2025-03-25T22:59:24Z",
             "owner": "patrickschur",
@@ -278,6 +297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5516873,
             "language": "PHP",
             "last_commit": "2024-07-22T11:11:32Z",
             "owner": "angeloskath",
@@ -292,6 +312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4389291,
             "language": "PHP",
             "last_commit": "2024-12-28T11:55:17Z",
             "owner": "yooper",
@@ -306,6 +327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109329697,
             "language": "Java",
             "last_commit": "2025-03-13T02:36:47Z",
             "owner": "google",
@@ -320,8 +342,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146601310,
             "language": "PHP",
-            "last_commit": "2022-10-15T06:37:10Z",
+            "last_commit": "2026-08-19T12:18:34Z",
             "owner": "davmixcool",
             "repo": "php-sentiment-analyzer",
             "stars": 135
@@ -334,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161001736,
             "language": "PHP",
             "last_commit": "2025-07-25T19:45:24Z",
             "owner": "RubixML",
@@ -348,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90291064,
             "language": "PHP",
             "last_commit": "2026-06-23T18:09:15Z",
             "owner": "voku",
@@ -362,6 +387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529640914,
             "language": "PHP",
             "last_commit": "2026-02-27T23:40:19Z",
             "owner": "ankane",
@@ -376,6 +402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597798953,
             "language": "PHP",
             "last_commit": "2024-03-21T15:37:14Z",
             "owner": "SerafimArts",
@@ -390,6 +417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 938152505,
             "language": "PHP",
             "last_commit": "2025-12-24T18:25:16Z",
             "owner": "friteuseb",
@@ -410,11 +438,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7704544,
             "language": "PHP",
             "last_commit": "2026-08-16T14:44:26Z",
             "owner": "Intervention",
             "repo": "image",
-            "stars": 14367
+            "stars": 14366
           }
         },
         {
@@ -424,6 +453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617662019,
             "language": "PHP",
             "last_commit": "2026-05-15T07:52:56Z",
             "owner": "aschmelyun",
@@ -438,6 +468,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 133700311,
             "language": "C++",
             "last_commit": "2023-12-08T22:30:57Z",
             "owner": "php-opencv",
@@ -452,6 +483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 386608844,
             "language": "C",
             "last_commit": "2021-09-22T09:59:01Z",
             "owner": "jcupitt",
@@ -466,6 +498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214813102,
             "language": "C++",
             "last_commit": "2026-05-04T10:19:08Z",
             "owner": "mailmug",
@@ -480,6 +513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1253892351,
             "language": "PHP",
             "last_commit": "2026-06-03T02:37:55Z",
             "owner": "b7s",
@@ -500,6 +534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55360541,
             "language": "PHP",
             "last_commit": "2026-03-09T00:06:41Z",
             "owner": "markrogoyski",
@@ -514,6 +549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23512728,
             "language": "PHP",
             "last_commit": "2026-08-09T13:08:14Z",
             "owner": "brick",
@@ -528,6 +564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445609326,
             "language": "PHP",
             "last_commit": "2026-07-05T19:27:17Z",
             "owner": "Hi-Folks",
@@ -542,6 +579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27421048,
             "language": "PHP",
             "last_commit": "2019-11-06T13:59:39Z",
             "owner": "NumPHP",
@@ -556,6 +594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18337618,
             "language": "PHP",
             "last_commit": "2022-08-27T19:28:29Z",
             "owner": "mcordingley",
@@ -568,132 +607,143 @@
     },
     {
       "description": "Low-level building blocks for numerical computing, tensors, and model execution in PHP.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌟 RubixML/Tensor",
+              "description": "N-dimensional tensors for numerical computing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151361731,
+                "language": "PHP",
+                "last_commit": "2026-03-24T19:05:17Z",
+                "owner": "RubixML",
+                "repo": "Tensor",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌟 krakjoe/ort",
+              "description": "– PHP extension for high-performance tensor mathematics, with optional ONNX Runtime integration for model inference",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014260444,
+                "language": "C",
+                "last_commit": "2026-02-03T05:26:41Z",
+                "owner": "krakjoe",
+                "repo": "ort",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 phpmlkit/ndarray",
+              "description": "Multidimensional array (ndarray) implementation for PHP inspired by NumPy, useful for numerical computing and machine learning workloads",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1167031619,
+                "language": "Rust",
+                "last_commit": "2026-06-18T15:24:35Z",
+                "owner": "phpmlkit",
+                "repo": "ndarray",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌟 RubixML/numpower",
+              "description": "High-performance numerical computing library inspired by NumPy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1032711065,
+                "language": "PHP",
+                "last_commit": "2026-05-29T14:01:37Z",
+                "owner": "RubixML",
+                "repo": "numpower",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 rindow/rindow-math-matrix",
+              "description": "Foundational package for scientific matrix operations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237783712,
+                "language": "PHP",
+                "last_commit": "2025-04-13T13:13:00Z",
+                "owner": "rindow",
+                "repo": "rindow-math-matrix",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Numerical computing & tensors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌟 ankane/onnxruntime-php",
+              "description": "Run ONNX models from PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528683671,
+                "language": "PHP",
+                "last_commit": "2026-08-12T17:03:47Z",
+                "owner": "ankane",
+                "repo": "onnxruntime-php",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phpmlkit/onnxruntime",
+              "description": "High-performance ONNX Runtime bindings for PHP using FFI, enabling inference of models from PyTorch, TensorFlow, scikit-learn and other frameworks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1196028021,
+                "language": "PHP",
+                "last_commit": "2026-04-06T10:06:40Z",
+                "owner": "phpmlkit",
+                "repo": "onnxruntime",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 DisplaceTech/ext-infer",
+              "description": "PHP extension for local in-process LLM inference with GGUF models via llama.cpp, supporting chat, embeddings, and reasoning models without Python, remote APIs, or sidecar services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1260897421,
+                "language": "Rust",
+                "last_commit": "2026-06-12T16:54:10Z",
+                "owner": "DisplaceTech",
+                "repo": "ext-infer",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Model execution & runtimes"
+        }
+      ],
       "title": "Core ML Infrastructure"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌟 RubixML/Tensor",
-          "description": "N-dimensional tensors for numerical computing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-24T19:05:17Z",
-            "owner": "RubixML",
-            "repo": "Tensor",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 krakjoe/ort",
-          "description": "– PHP extension for high-performance tensor mathematics, with optional ONNX Runtime integration for model inference",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-03T05:26:41Z",
-            "owner": "krakjoe",
-            "repo": "ort",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 phpmlkit/ndarray",
-          "description": "Multidimensional array (ndarray) implementation for PHP inspired by NumPy, useful for numerical computing and machine learning workloads",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-18T15:24:35Z",
-            "owner": "phpmlkit",
-            "repo": "ndarray",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 RubixML/numpower",
-          "description": "High-performance numerical computing library inspired by NumPy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-29T14:01:37Z",
-            "owner": "RubixML",
-            "repo": "numpower",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 rindow/rindow-math-matrix",
-          "description": "Foundational package for scientific matrix operations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-04-13T13:13:00Z",
-            "owner": "rindow",
-            "repo": "rindow-math-matrix",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Numerical computing & tensors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌟 ankane/onnxruntime-php",
-          "description": "Run ONNX models from PHP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-12T17:03:47Z",
-            "owner": "ankane",
-            "repo": "onnxruntime-php",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phpmlkit/onnxruntime",
-          "description": "High-performance ONNX Runtime bindings for PHP using FFI, enabling inference of models from PyTorch, TensorFlow, scikit-learn and other frameworks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-06T10:06:40Z",
-            "owner": "phpmlkit",
-            "repo": "onnxruntime",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 DisplaceTech/ext-infer",
-          "description": "PHP extension for local in-process LLM inference with GGUF models via llama.cpp, supporting chat, embeddings, and reasoning models without Python, remote APIs, or sidecar services",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-12T16:54:10Z",
-            "owner": "DisplaceTech",
-            "repo": "ext-infer",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Model execution & runtimes"
     },
     {
       "description": "Clients, SDKs, and frameworks for calling hosted LLMs and other AI providers from PHP.",
@@ -705,11 +755,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541322916,
             "language": "PHP",
             "last_commit": "2026-08-18T10:19:11Z",
             "owner": "openai-php",
             "repo": "client",
-            "stars": 5825
+            "stars": 5826
           }
         },
         {
@@ -719,11 +770,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 983763510,
             "language": "TypeScript",
             "last_commit": "2026-08-12T12:46:11Z",
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 4987
+            "stars": 4989
           }
         },
         {
@@ -733,6 +785,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440520058,
             "language": "PHP",
             "last_commit": "2025-03-12T12:05:15Z",
             "owner": "orhanerday",
@@ -747,6 +800,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911047604,
             "language": "PHP",
             "last_commit": "2026-05-24T22:30:32Z",
             "owner": "deepseek-php",
@@ -761,6 +815,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 755889931,
             "language": "PHP",
             "last_commit": "2025-12-29T17:51:52Z",
             "owner": "google-gemini-php",
@@ -775,6 +830,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 763463572,
             "language": "PHP",
             "last_commit": "2026-08-10T22:49:41Z",
             "owner": "cognesy",
@@ -789,6 +845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 622564306,
             "language": "PHP",
             "last_commit": "2023-06-20T07:02:33Z",
             "owner": "kambo-1st",
@@ -803,6 +860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084906506,
             "language": "PHP",
             "last_commit": "2026-08-17T12:33:33Z",
             "owner": "aimeos",
@@ -817,6 +875,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 842172402,
             "language": "PHP",
             "last_commit": "2026-07-27T10:54:13Z",
             "owner": "ArdaGnsrn",
@@ -831,6 +890,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 847361171,
             "language": "PHP",
             "last_commit": "2025-05-01T14:49:29Z",
             "owner": "llm-agents-php",
@@ -845,6 +905,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804026875,
             "language": "PHP",
             "last_commit": "2026-07-19T13:48:25Z",
             "owner": "mzarnecki",
@@ -859,6 +920,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964663533,
             "language": "PHP",
             "last_commit": "2026-08-18T00:36:18Z",
             "owner": "dg",
@@ -873,6 +935,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 793948949,
             "language": "PHP",
             "last_commit": "2026-08-07T17:32:59Z",
             "owner": "mozex",
@@ -887,6 +950,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894461737,
             "language": "PHP",
             "last_commit": "2026-05-04T10:06:56Z",
             "owner": "skito",
@@ -901,6 +965,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 926721714,
             "language": "PHP",
             "last_commit": "2025-12-30T17:13:54Z",
             "owner": "prism-php",
@@ -915,6 +980,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784462998,
             "language": "PHP",
             "last_commit": "2024-07-23T21:15:52Z",
             "owner": "adrienbrault",
@@ -929,6 +995,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641257513,
             "language": "PHP",
             "last_commit": "2024-08-09T06:34:07Z",
             "owner": "elastic",
@@ -943,6 +1010,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752139629,
             "language": "PHP",
             "last_commit": "2025-11-21T15:07:30Z",
             "owner": "SoftCreatR",
@@ -957,6 +1025,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217547068,
             "language": "PHP",
             "last_commit": "2026-07-14T06:46:04Z",
             "owner": "Clarifai",
@@ -971,6 +1040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 786996832,
             "language": "PHP",
             "last_commit": "2025-05-06T17:55:19Z",
             "owner": "HosonoDE",
@@ -985,6 +1055,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 761177001,
             "language": "PHP",
             "last_commit": "2025-07-24T06:32:59Z",
             "owner": "sarfraznawaz2005",
@@ -999,6 +1070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946535881,
             "language": "PHP",
             "last_commit": "2026-06-03T03:05:59Z",
             "owner": "utopia-php",
@@ -1013,6 +1085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 884450303,
             "language": "PHP",
             "last_commit": "2025-02-26T14:55:26Z",
             "owner": "EliasPereirah",
@@ -1027,6 +1100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900854587,
             "language": "PHP",
             "last_commit": "2025-02-07T11:00:56Z",
             "owner": "FunkyOz",
@@ -1041,6 +1115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 852343234,
             "language": "PHP",
             "last_commit": "2024-09-15T18:48:50Z",
             "owner": "llm-agents-php",
@@ -1055,6 +1130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 700399753,
             "language": "PHP",
             "last_commit": "2023-10-09T08:17:54Z",
             "owner": "thojou",
@@ -1069,6 +1145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156625948,
             "language": "PHP",
             "last_commit": "2026-06-30T13:42:39Z",
             "owner": "carmelosantana",
@@ -1083,6 +1160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749322789,
             "language": "PHP",
             "last_commit": "2024-04-28T03:41:41Z",
             "owner": "takaaki-mizuno",
@@ -1097,215 +1175,232 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1279809831,
             "language": "PHP",
             "last_commit": "2026-07-29T03:54:36Z",
             "owner": "runapi-ai",
             "repo": "gpt-image-2-php",
             "stars": 0
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "logiscape/mcp-sdk-php",
+              "description": "PHP SDK for building Model Context Protocol (MCP) clients and servers to connect LLMs with external tools and services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900612306,
+                "language": "PHP",
+                "last_commit": "2026-08-18T20:34:20Z",
+                "owner": "logiscape",
+                "repo": "mcp-sdk-php",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prism-php/relay",
+              "description": "MCP client for Prism that lets PHP/Laravel AI agents connect to external Model Context Protocol servers and use their tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957584795,
+                "language": "PHP",
+                "last_commit": "2026-03-20T12:24:26Z",
+                "owner": "prism-php",
+                "repo": "relay",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 manuelkiessling/php-ai-tool-bridge",
+              "description": "PHP library for defining AI “tool functions” that let LLMs interact with application code and external services using structured JSON schemas",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638502832,
+                "language": "PHP",
+                "last_commit": "2023-09-01T07:43:46Z",
+                "owner": "manuelkiessling",
+                "repo": "php-ai-tool-bridge",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 symfony/mcp-sdk",
+              "description": "Symfony's experimental PHP SDK for building Model Context Protocol (MCP) clients and servers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1017944867,
+                "language": "PHP",
+                "last_commit": "2025-10-04T09:13:07Z",
+                "owner": "symfony",
+                "repo": "mcp-sdk",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 neuron-core/youtube-ai-agent",
+              "description": "Example PHP AI agent built with Neuron for summarizing YouTube videos and generating content from them",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960391057,
+                "language": "PHP",
+                "last_commit": "2025-10-21T10:23:08Z",
+                "owner": "neuron-core",
+                "repo": "youtube-ai-agent",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 neuron-core/llm-classifier",
+              "description": "Train lightweight classifiers that estimate prompt difficulty and route requests to the most cost-effective LLM, enabling intelligent model selection and inference cost optimization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1271416718,
+                "language": "PHP",
+                "last_commit": "2026-06-16T17:39:36Z",
+                "owner": "neuron-core",
+                "repo": "llm-classifier",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agents & Tooling / MCP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "b7s/fluentvox",
+              "description": "Fluent PHP API for state-of-the-art text-to-speech and voice cloning (Resemble AI's Chatterbox), with CLI, GPU acceleration, and multilingual support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129202922,
+                "language": "PHP",
+                "last_commit": "2026-08-12T22:32:31Z",
+                "owner": "b7s",
+                "repo": "fluentvox",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "b7s/whisper-php",
+              "description": "PHP wrapper/client for Whisper speech-to-text (ASR), enabling audio transcription via Whisper models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108432149,
+                "language": "PHP",
+                "last_commit": "2026-07-03T00:56:45Z",
+                "owner": "b7s",
+                "repo": "whisper-php",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speech & Text-to-Speech"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yethee/tiktoken-php",
+              "description": "PHP implementation of OpenAI's tiktoken tokenizer for token counting and optimization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624079108,
+                "language": "PHP",
+                "last_commit": "2026-03-10T20:25:55Z",
+                "owner": "yethee",
+                "repo": "tiktoken-php",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HelgeSverre/toon-php",
+              "description": "PHP implementation of TOON, a compact data format for reducing token usage when sending structured data to LLMs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1084131870,
+                "language": "PHP",
+                "last_commit": "2026-07-08T15:56:19Z",
+                "owner": "HelgeSverre",
+                "repo": "toon-php",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gioni06/GPT3Tokenizer",
+              "description": "PHP tokenizer compatible with GPT-3 style models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589894587,
+                "language": "PHP",
+                "last_commit": "2024-01-16T23:21:28Z",
+                "owner": "Gioni06",
+                "repo": "GPT3Tokenizer",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CodeWithKyrian/tokenizers-php",
+              "description": "PHP bindings for Hugging Face Tokenizers, enabling fast tokenization for transformer and LLM models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113840642,
+                "language": "PHP",
+                "last_commit": "2026-06-17T21:02:06Z",
+                "owner": "CodeWithKyrian",
+                "repo": "tokenizers-php",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RahulDey12/tiktoken-php",
+              "description": "PHP implementation of OpenAI's BPE tokenizer for encoding, decoding, and counting tokens in GPT prompts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761943475,
+                "language": "PHP",
+                "last_commit": "2025-01-25T15:45:45Z",
+                "owner": "RahulDey12",
+                "repo": "tiktoken-php",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tokenizers & Prompt Utilities"
         }
       ],
       "title": "LLMs & AI APIs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "logiscape/mcp-sdk-php",
-          "description": "PHP SDK for building Model Context Protocol (MCP) clients and servers to connect LLMs with external tools and services",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T02:43:33Z",
-            "owner": "logiscape",
-            "repo": "mcp-sdk-php",
-            "stars": 368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prism-php/relay",
-          "description": "MCP client for Prism that lets PHP/Laravel AI agents connect to external Model Context Protocol servers and use their tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-20T12:24:26Z",
-            "owner": "prism-php",
-            "repo": "relay",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 manuelkiessling/php-ai-tool-bridge",
-          "description": "PHP library for defining AI “tool functions” that let LLMs interact with application code and external services using structured JSON schemas",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-09-01T07:43:46Z",
-            "owner": "manuelkiessling",
-            "repo": "php-ai-tool-bridge",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 symfony/mcp-sdk",
-          "description": "Symfony's experimental PHP SDK for building Model Context Protocol (MCP) clients and servers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-10-04T09:13:07Z",
-            "owner": "symfony",
-            "repo": "mcp-sdk",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 neuron-core/youtube-ai-agent",
-          "description": "Example PHP AI agent built with Neuron for summarizing YouTube videos and generating content from them",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-10-21T10:23:08Z",
-            "owner": "neuron-core",
-            "repo": "youtube-ai-agent",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 neuron-core/llm-classifier",
-          "description": "Train lightweight classifiers that estimate prompt difficulty and route requests to the most cost-effective LLM, enabling intelligent model selection and inference cost optimization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-16T17:39:36Z",
-            "owner": "neuron-core",
-            "repo": "llm-classifier",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Agents & Tooling / MCP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "b7s/fluentvox",
-          "description": "Fluent PHP API for state-of-the-art text-to-speech and voice cloning (Resemble AI's Chatterbox), with CLI, GPU acceleration, and multilingual support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-12T22:32:31Z",
-            "owner": "b7s",
-            "repo": "fluentvox",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "b7s/whisper-php",
-          "description": "PHP wrapper/client for Whisper speech-to-text (ASR), enabling audio transcription via Whisper models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-03T00:56:45Z",
-            "owner": "b7s",
-            "repo": "whisper-php",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Speech & Text-to-Speech"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "yethee/tiktoken-php",
-          "description": "PHP implementation of OpenAI's tiktoken tokenizer for token counting and optimization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-10T20:25:55Z",
-            "owner": "yethee",
-            "repo": "tiktoken-php",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HelgeSverre/toon-php",
-          "description": "PHP implementation of TOON, a compact data format for reducing token usage when sending structured data to LLMs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-08T15:56:19Z",
-            "owner": "HelgeSverre",
-            "repo": "toon-php",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gioni06/GPT3Tokenizer",
-          "description": "PHP tokenizer compatible with GPT-3 style models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-01-16T23:21:28Z",
-            "owner": "Gioni06",
-            "repo": "GPT3Tokenizer",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CodeWithKyrian/tokenizers-php",
-          "description": "PHP bindings for Hugging Face Tokenizers, enabling fast tokenization for transformer and LLM models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-17T21:02:06Z",
-            "owner": "CodeWithKyrian",
-            "repo": "tokenizers-php",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RahulDey12/tiktoken-php",
-          "description": "PHP implementation of OpenAI's BPE tokenizer for encoding, decoding, and counting tokens in GPT prompts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-01-25T15:45:45Z",
-            "owner": "RahulDey12",
-            "repo": "tiktoken-php",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Tokenizers & Prompt Utilities"
     },
     {
       "description": "Libraries for generating embeddings and performing vector similarity search from PHP applications.",
@@ -1317,11 +1412,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359952601,
             "language": "C",
             "last_commit": "2026-08-15T16:00:34Z",
             "owner": "pgvector",
             "repo": "pgvector",
-            "stars": 22661
+            "stars": 22672
           }
         },
         {
@@ -1331,6 +1427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672847735,
             "language": "PHP",
             "last_commit": "2026-07-26T08:28:11Z",
             "owner": "LLPhant",
@@ -1345,11 +1442,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228859550,
             "language": "PHP",
             "last_commit": "2026-08-11T07:29:15Z",
             "owner": "meilisearch",
             "repo": "meilisearch-php",
-            "stars": 756
+            "stars": 757
           }
         },
         {
@@ -1359,8 +1457,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10172371,
             "language": "PHP",
-            "last_commit": "2026-08-17T13:29:44Z",
+            "last_commit": "2026-08-18T12:43:37Z",
             "owner": "algolia",
             "repo": "algoliasearch-client-php",
             "stars": 697
@@ -1373,6 +1472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521027141,
             "language": "PHP",
             "last_commit": "2026-07-09T04:26:33Z",
             "owner": "pgvector",
@@ -1387,6 +1487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614270074,
             "language": "PHP",
             "last_commit": "2026-04-18T06:56:14Z",
             "owner": "hkulekci",
@@ -1401,6 +1502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736929332,
             "language": "PHP",
             "last_commit": "2025-12-06T20:25:00Z",
             "owner": "CodeWithKyrian",
@@ -1415,6 +1517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627425271,
             "language": "PHP",
             "last_commit": "2026-06-23T05:28:20Z",
             "owner": "probots-io",
@@ -1429,6 +1532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1250666404,
             "language": "PHP",
             "last_commit": "2026-06-05T18:46:06Z",
             "owner": "b7s",
@@ -1443,6 +1547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 750747714,
             "language": "PHP",
             "last_commit": "2024-02-29T15:33:39Z",
             "owner": "redis-applied-ai",
@@ -1457,6 +1562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1060460141,
             "language": "PHP",
             "last_commit": "2025-09-21T10:24:21Z",
             "owner": "Voyanara",
@@ -1471,6 +1577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 853717243,
             "language": "PHP",
             "last_commit": "2025-01-19T15:24:21Z",
             "owner": "llm-agents-php",
@@ -1491,8 +1598,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14875475,
             "language": "PHP",
-            "last_commit": "2026-08-01T11:55:51Z",
+            "last_commit": "2026-08-19T09:52:11Z",
             "owner": "thephpleague",
             "repo": "csv",
             "stars": 3480
@@ -1505,6 +1613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3811518,
             "language": "PHP",
             "last_commit": "2025-11-27T18:58:45Z",
             "owner": "cocur",
@@ -1519,8 +1628,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1398663,
             "language": "PHP",
-            "last_commit": "2026-08-17T09:26:18Z",
+            "last_commit": "2026-08-19T08:46:13Z",
             "owner": "symfony",
             "repo": "serializer",
             "stars": 2536
@@ -1533,6 +1643,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 153632216,
             "language": "PHP",
             "last_commit": "2022-11-01T08:48:41Z",
             "owner": "spatie",
@@ -1547,6 +1658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50824235,
             "language": "PHP",
             "last_commit": "2026-04-14T21:45:23Z",
             "owner": "php-ds",
@@ -1561,6 +1673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370006659,
             "language": "PHP",
             "last_commit": "2026-08-17T14:13:32Z",
             "owner": "flow-php",
@@ -1575,6 +1688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1169709032,
             "language": "PHP",
             "last_commit": "2026-08-17T17:44:17Z",
             "owner": "paperdoc-dev",
@@ -1595,11 +1709,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 941562247,
             "language": "PHP",
             "last_commit": "2026-08-18T10:09:19Z",
             "owner": "neuron-core",
             "repo": "neuron-ai",
-            "stars": 2054
+            "stars": 2056
           }
         },
         {
@@ -1609,8 +1724,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43642389,
             "language": "PHP",
-            "last_commit": "2026-08-18T06:32:23Z",
+            "last_commit": "2026-08-19T02:13:20Z",
             "owner": "googleapis",
             "repo": "google-cloud-php",
             "stars": 1181
@@ -1623,6 +1739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102533321,
             "language": "PHP",
             "last_commit": "2026-07-24T05:32:04Z",
             "owner": "grpc",
@@ -1637,6 +1754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470923385,
             "language": "PHP",
             "last_commit": "2026-08-12T01:31:55Z",
             "owner": "DeepL",
@@ -1651,6 +1769,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 701729734,
             "language": "PHP",
             "last_commit": "2024-12-12T17:24:02Z",
             "owner": "distantmagic",
@@ -1665,6 +1784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 897105233,
             "language": null,
             "last_commit": "2024-12-02T03:12:43Z",
             "owner": "garyblankenship",
@@ -1679,6 +1799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 339536982,
             "language": "PHP",
             "last_commit": "2024-11-27T09:13:15Z",
             "owner": "nlpcloud",
@@ -1693,6 +1814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269152132,
             "language": "JavaScript",
             "last_commit": "2020-07-27T02:41:37Z",
             "owner": "HossamBalaha",
@@ -1713,6 +1835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6936773,
             "language": "PHP",
             "last_commit": "2026-02-02T09:58:07Z",
             "owner": "php-fig",
@@ -1727,11 +1850,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1398630,
             "language": "PHP",
-            "last_commit": "2026-08-17T13:22:03Z",
+            "last_commit": "2026-08-18T15:23:10Z",
             "owner": "symfony",
             "repo": "console",
-            "stars": 9808
+            "stars": 9809
           }
         },
         {
@@ -1741,11 +1865,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105197315,
             "language": "PHP",
             "last_commit": "2026-08-04T15:20:01Z",
             "owner": "nunomaduro",
             "repo": "collision",
-            "stars": 4658
+            "stars": 4660
           }
         },
         {
@@ -1755,6 +1880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174382335,
             "language": "PHP",
             "last_commit": "2026-08-17T13:22:05Z",
             "owner": "symfony",
@@ -1769,11 +1895,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595042098,
             "language": "PHP",
-            "last_commit": "2026-08-17T21:12:56Z",
+            "last_commit": "2026-08-18T21:07:55Z",
             "owner": "guanguans",
             "repo": "ai-commit",
-            "stars": 393
+            "stars": 394
           }
         },
         {
@@ -1783,6 +1910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 944922104,
             "language": "PHP",
             "last_commit": "2026-03-11T19:54:49Z",
             "owner": "context-hub",
@@ -1797,6 +1925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 726804844,
             "language": "PHP",
             "last_commit": "2024-08-05T13:16:03Z",
             "owner": "joshembling",
@@ -1811,6 +1940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1104298170,
             "language": "PHP",
             "last_commit": "2025-11-26T03:59:23Z",
             "owner": "mariorazo97",
@@ -1825,6 +1955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1059948578,
             "language": "PHP",
             "last_commit": "2026-07-18T13:27:36Z",
             "owner": "hiblaphp",
@@ -1839,6 +1970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1101844140,
             "language": "PHP",
             "last_commit": "2026-07-05T16:13:35Z",
             "owner": "apphp",
@@ -1850,454 +1982,483 @@
       "title": "Tools & Utilities"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌟 openai-php/laravel",
+              "description": "Laravel OpenAI integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582445575,
+                "language": "PHP",
+                "last_commit": "2026-07-27T13:19:17Z",
+                "owner": "openai-php",
+                "repo": "laravel",
+                "stars": 3748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌟 laravel/boost",
+              "description": "Official Laravel Boost: a development server and AI context provider that accelerates AI-assisted code generation by giving AI tools detailed insight into your Laravel app (MCP server, schema inspection, docs + guidelines)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1020205087,
+                "language": "PHP",
+                "last_commit": "2026-08-19T04:42:47Z",
+                "owner": "laravel",
+                "repo": "boost",
+                "stars": 3581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌟 laravel/ai",
+              "description": "The Laravel AI SDK: a unified, expressive Laravel API for interacting with AI providers (LLMs, images, embeddings, agents, tools)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1118335720,
+                "language": "PHP",
+                "last_commit": "2026-08-19T08:20:43Z",
+                "owner": "laravel",
+                "repo": "ai",
+                "stars": 1105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "maestroerror/LarAgent",
+              "description": "AI agent development framework for Laravel: define agents, tools, workflows, and manage LLM interactions with an Eloquent-style API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903027523,
+                "language": "PHP",
+                "last_commit": "2026-05-09T19:34:04Z",
+                "owner": "MaestroError",
+                "repo": "LarAgent",
+                "stars": 641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌟 php-mcp/laravel",
+              "description": "– Laravel package for building Model Context Protocol (MCP) servers and exposing application tools to LLMs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 974305429,
+                "language": "PHP",
+                "last_commit": "2026-03-29T17:53:09Z",
+                "owner": "php-mcp",
+                "repo": "laravel",
+                "stars": 477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "opgginc/laravel-mcp-server",
+              "description": "Laravel package for building secure Model Context Protocol (MCP) servers using Streamable HTTP/SSE, enabling real-time communication between LLM agents and application tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965695670,
+                "language": "PHP",
+                "last_commit": "2026-04-26T05:52:21Z",
+                "owner": "opgginc",
+                "repo": "laravel-mcp-server",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vizra-ai/vizra-adk",
+              "description": "Laravel AI Agent Development Kit for building autonomous agents with tools, persistent memory, workflows, streaming, evaluations, tracing, and Prism-powered multi-model support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 993664238,
+                "language": "PHP",
+                "last_commit": "2026-05-18T09:49:33Z",
+                "owner": "vizra-ai",
+                "repo": "vizra-adk",
+                "stars": 297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grok-php/laravel",
+              "description": "Laravel package for integrating Grok AI models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928656281,
+                "language": "PHP",
+                "last_commit": "2025-02-25T11:07:50Z",
+                "owner": "grok-php",
+                "repo": "laravel",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moe-mizrak/laravel-openrouter",
+              "description": "Laravel package to integrate OpenRouter LLM API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799495073,
+                "language": "PHP",
+                "last_commit": "2026-06-11T23:38:53Z",
+                "owner": "moe-mizrak",
+                "repo": "laravel-openrouter",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌟 neuron-core/neuron-laravel",
+              "description": "Laravel integration for Neuron Core to build and orchestrate AI/LLM workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1121804723,
+                "language": "PHP",
+                "last_commit": "2026-06-29T10:38:16Z",
+                "owner": "neuron-core",
+                "repo": "neuron-laravel",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mozex/anthropic-laravel",
+              "description": "Laravel integration for the Anthropic (Claude) AI API with Facades, config publishing, and testing fakes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794590471,
+                "language": "PHP",
+                "last_commit": "2026-08-07T00:52:49Z",
+                "owner": "mozex",
+                "repo": "anthropic-laravel",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atlas-php/atlas",
+              "description": "Laravel AI application framework for structuring agents, tools, prompts, and pipelines on top of Prism PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139136914,
+                "language": "PHP",
+                "last_commit": "2026-07-21T14:59:13Z",
+                "owner": "atlas-php",
+                "repo": "atlas",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 builtbyberry/laravel-swarm",
+              "description": "Multi-agent swarm orchestration for Laravel, built on Laravel AI, with sequential, parallel, hierarchical, queued, streamed, and durable workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1218277073,
+                "language": "PHP",
+                "last_commit": "2026-08-14T21:55:43Z",
+                "owner": "builtbyberry",
+                "repo": "laravel-swarm",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PapaRascal2020/sidekick",
+              "description": "Laravel package offering a unified syntax for working with multiple AI provider APIs (OpenAI, Claude, Cohere, Mistral)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 850344872,
+                "language": "PHP",
+                "last_commit": "2026-02-18T08:11:44Z",
+                "owner": "PapaRascal2020",
+                "repo": "sidekick",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌟 promptlyagentai/promptlyagent",
+              "description": "AI Agent development framework / workbench / harness powered by Laravel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1033484057,
+                "language": "PHP",
+                "last_commit": "2026-06-27T09:26:58Z",
+                "owner": "promptlyagentai",
+                "repo": "promptlyagent",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capevace/llm-magic",
+              "description": "Laravel-centric LLM toolkit with support for AI features like chat and structured data extraction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 896279821,
+                "language": "PHP",
+                "last_commit": "2025-10-29T16:49:38Z",
+                "owner": "Capevace",
+                "repo": "llm-magic",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BorahLabs/LLM-Port-Laravel",
+              "description": "Laravel package for interchangeable LLM providers, allowing drop-in replacements of large language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863460367,
+                "language": "PHP",
+                "last_commit": "2025-02-27T20:07:06Z",
+                "owner": "BorahLabs",
+                "repo": "LLM-Port-Laravel",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rahasistiyakofficial/laravel-ai-integration",
+              "description": "This is a comprehensive, enterprise-ready package that provides seamless integration with multiple AI providers through a unified, elegant API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1124026299,
+                "language": "PHP",
+                "last_commit": "2025-12-28T12:44:13Z",
+                "owner": "rahasistiyakofficial",
+                "repo": "laravel-ai-integration",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "artisan-build/llm",
+              "description": "Laravel integration for multiple LLM providers (OpenAI, Azure, OpenRouter, etc.), simplifying usage of large language models in Laravel apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811316994,
+                "language": "PHP",
+                "last_commit": "2024-06-06T21:50:47Z",
+                "owner": "artisan-build",
+                "repo": "llm",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shawnveltman/laravel-openai",
+              "description": "Laravel wrapper for OpenAI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723505571,
+                "language": "PHP",
+                "last_commit": "2026-04-21T00:02:07Z",
+                "owner": "shawnveltman",
+                "repo": "laravel-openai",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM & AI clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌟 prism-php/prism",
+              "description": "Unified Laravel-native interface for working with LLMs (OpenAI, Anthropic, Gemini, Ollama, etc.), supporting text generation, structured outputs, tools/function calling, and multi-step AI workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 762355055,
+                "language": "PHP",
+                "last_commit": "2026-03-20T20:37:40Z",
+                "owner": "prism-php",
+                "repo": "prism",
+                "stars": 2414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spatie/laravel-data",
+              "description": "Typed DTOs for API & AI responses",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367364180,
+                "language": "PHP",
+                "last_commit": "2026-06-26T09:48:48Z",
+                "owner": "spatie",
+                "repo": "laravel-data",
+                "stars": 1782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jeremysalmon/LaravelLLMContext",
+              "description": "Laravel package for managing and applying contextual data in LLM interactions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 886776941,
+                "language": "PHP",
+                "last_commit": "2024-11-11T16:31:30Z",
+                "owner": "jeremysalmon",
+                "repo": "LaravelLLMContext",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data & DTO tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jayeshmepani/laravel-gemini-translator",
+              "description": "Laravel Gemini AI Translation Extractor scans your Laravel project for translation keys, uses Google Gemini AI for translations, and generates language files automatically — streamlining and accelerating your localization workflow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001910115,
+                "language": "PHP",
+                "last_commit": "2026-08-18T11:10:33Z",
+                "owner": "jayeshmepani",
+                "repo": "laravel-gemini-translator",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capevace/ai-translations-for-laravel",
+              "description": "Laravel package for automatically translating language files with LLMs, detecting missing translations, updating existing locales, validating translation files, and refining translations interactively",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898202164,
+                "language": "PHP",
+                "last_commit": "2025-12-09T15:15:42Z",
+                "owner": "Capevace",
+                "repo": "ai-translations-for-laravel",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Localization & Translation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🧪 prismaticoder/laravel-prompt-manager",
+              "description": "Laravel package for managing, versioning, and testing AI prompts for LLM-powered applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965308108,
+                "language": "PHP",
+                "last_commit": "2025-04-13T19:51:11Z",
+                "owner": "prismaticoder",
+                "repo": "laravel-prompt-manager",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 SabatinoMasala/laravel-llm-prompt",
+              "description": "Lightweight Laravel helper for defining, templating, and composing LLM prompts using PHP classes with variable interpolation and dynamic prompt building",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 841946634,
+                "language": "PHP",
+                "last_commit": "2024-08-13T12:01:50Z",
+                "owner": "SabatinoMasala",
+                "repo": "laravel-llm-prompt",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prompt Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌟 laravel/scout",
+              "description": "– Search abstraction (useful for vector search)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62261287,
+                "language": "PHP",
+                "last_commit": "2026-08-10T17:17:17Z",
+                "owner": "laravel",
+                "repo": "scout",
+                "stars": 1676
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "teamtnt/laravel-scout-tntsearch-driver",
+              "description": "Local full-text search",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65626858,
+                "language": "PHP",
+                "last_commit": "2026-08-18T10:09:07Z",
+                "owner": "teamtnt",
+                "repo": "laravel-scout-tntsearch-driver",
+                "stars": 1136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Search & vector search"
+        }
+      ],
       "title": "Laravel & Framework Integrations"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌟 openai-php/laravel",
-          "description": "Laravel OpenAI integration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-27T13:19:17Z",
-            "owner": "openai-php",
-            "repo": "laravel",
-            "stars": 3748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 laravel/boost",
-          "description": "Official Laravel Boost: a development server and AI context provider that accelerates AI-assisted code generation by giving AI tools detailed insight into your Laravel app (MCP server, schema inspection, docs + guidelines)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T00:33:11Z",
-            "owner": "laravel",
-            "repo": "boost",
-            "stars": 3581
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 laravel/ai",
-          "description": "The Laravel AI SDK: a unified, expressive Laravel API for interacting with AI providers (LLMs, images, embeddings, agents, tools)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-17T23:13:52Z",
-            "owner": "laravel",
-            "repo": "ai",
-            "stars": 1103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "maestroerror/LarAgent",
-          "description": "AI agent development framework for Laravel: define agents, tools, workflows, and manage LLM interactions with an Eloquent-style API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-09T19:34:04Z",
-            "owner": "MaestroError",
-            "repo": "LarAgent",
-            "stars": 641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 php-mcp/laravel",
-          "description": "– Laravel package for building Model Context Protocol (MCP) servers and exposing application tools to LLMs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-29T17:53:09Z",
-            "owner": "php-mcp",
-            "repo": "laravel",
-            "stars": 477
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opgginc/laravel-mcp-server",
-          "description": "Laravel package for building secure Model Context Protocol (MCP) servers using Streamable HTTP/SSE, enabling real-time communication between LLM agents and application tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-26T05:52:21Z",
-            "owner": "opgginc",
-            "repo": "laravel-mcp-server",
-            "stars": 330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vizra-ai/vizra-adk",
-          "description": "Laravel AI Agent Development Kit for building autonomous agents with tools, persistent memory, workflows, streaming, evaluations, tracing, and Prism-powered multi-model support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-18T09:49:33Z",
-            "owner": "vizra-ai",
-            "repo": "vizra-adk",
-            "stars": 297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grok-php/laravel",
-          "description": "Laravel package for integrating Grok AI models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-02-25T11:07:50Z",
-            "owner": "grok-php",
-            "repo": "laravel",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moe-mizrak/laravel-openrouter",
-          "description": "Laravel package to integrate OpenRouter LLM API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-11T23:38:53Z",
-            "owner": "moe-mizrak",
-            "repo": "laravel-openrouter",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 neuron-core/neuron-laravel",
-          "description": "Laravel integration for Neuron Core to build and orchestrate AI/LLM workflows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-29T10:38:16Z",
-            "owner": "neuron-core",
-            "repo": "neuron-laravel",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mozex/anthropic-laravel",
-          "description": "Laravel integration for the Anthropic (Claude) AI API with Facades, config publishing, and testing fakes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-07T00:52:49Z",
-            "owner": "mozex",
-            "repo": "anthropic-laravel",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atlas-php/atlas",
-          "description": "Laravel AI application framework for structuring agents, tools, prompts, and pipelines on top of Prism PHP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-21T14:59:13Z",
-            "owner": "atlas-php",
-            "repo": "atlas",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 builtbyberry/laravel-swarm",
-          "description": "Multi-agent swarm orchestration for Laravel, built on Laravel AI, with sequential, parallel, hierarchical, queued, streamed, and durable workflows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-14T21:55:43Z",
-            "owner": "builtbyberry",
-            "repo": "laravel-swarm",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PapaRascal2020/sidekick",
-          "description": "Laravel package offering a unified syntax for working with multiple AI provider APIs (OpenAI, Claude, Cohere, Mistral)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-02-18T08:11:44Z",
-            "owner": "PapaRascal2020",
-            "repo": "sidekick",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 promptlyagentai/promptlyagent",
-          "description": "AI Agent development framework / workbench / harness powered by Laravel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-27T09:26:58Z",
-            "owner": "promptlyagentai",
-            "repo": "promptlyagent",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Capevace/llm-magic",
-          "description": "Laravel-centric LLM toolkit with support for AI features like chat and structured data extraction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-10-29T16:49:38Z",
-            "owner": "Capevace",
-            "repo": "llm-magic",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BorahLabs/LLM-Port-Laravel",
-          "description": "Laravel package for interchangeable LLM providers, allowing drop-in replacements of large language models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-02-27T20:07:06Z",
-            "owner": "BorahLabs",
-            "repo": "LLM-Port-Laravel",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rahasistiyakofficial/laravel-ai-integration",
-          "description": "This is a comprehensive, enterprise-ready package that provides seamless integration with multiple AI providers through a unified, elegant API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-12-28T12:44:13Z",
-            "owner": "rahasistiyakofficial",
-            "repo": "laravel-ai-integration",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "artisan-build/llm",
-          "description": "Laravel integration for multiple LLM providers (OpenAI, Azure, OpenRouter, etc.), simplifying usage of large language models in Laravel apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-06T21:50:47Z",
-            "owner": "artisan-build",
-            "repo": "llm",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shawnveltman/laravel-openai",
-          "description": "Laravel wrapper for OpenAI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-21T00:02:07Z",
-            "owner": "shawnveltman",
-            "repo": "laravel-openai",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coding-wisely/taskallama",
-          "description": "Laravel package for seamless integration with the Ollama LLM API for AI-powered content generation, task assistance, conversation and embeddings",
-          "children": []
-        }
-      ],
-      "title": "LLM & AI clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌟 prism-php/prism",
-          "description": "Unified Laravel-native interface for working with LLMs (OpenAI, Anthropic, Gemini, Ollama, etc.), supporting text generation, structured outputs, tools/function calling, and multi-step AI workflows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-20T20:37:40Z",
-            "owner": "prism-php",
-            "repo": "prism",
-            "stars": 2413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spatie/laravel-data",
-          "description": "Typed DTOs for API & AI responses",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-26T09:48:48Z",
-            "owner": "spatie",
-            "repo": "laravel-data",
-            "stars": 1780
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jeremysalmon/LaravelLLMContext",
-          "description": "Laravel package for managing and applying contextual data in LLM interactions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-11-11T16:31:30Z",
-            "owner": "jeremysalmon",
-            "repo": "LaravelLLMContext",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Data & DTO tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jayeshmepani/laravel-gemini-translator",
-          "description": "Laravel Gemini AI Translation Extractor scans your Laravel project for translation keys, uses Google Gemini AI for translations, and generates language files automatically — streamlining and accelerating your localization workflow",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T11:10:33Z",
-            "owner": "jayeshmepani",
-            "repo": "laravel-gemini-translator",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Capevace/ai-translations-for-laravel",
-          "description": "Laravel package for automatically translating language files with LLMs, detecting missing translations, updating existing locales, validating translation files, and refining translations interactively",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-12-09T15:15:42Z",
-            "owner": "Capevace",
-            "repo": "ai-translations-for-laravel",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Localization & Translation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🧪 prismaticoder/laravel-prompt-manager",
-          "description": "Laravel package for managing, versioning, and testing AI prompts for LLM-powered applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-04-13T19:51:11Z",
-            "owner": "prismaticoder",
-            "repo": "laravel-prompt-manager",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 SabatinoMasala/laravel-llm-prompt",
-          "description": "Lightweight Laravel helper for defining, templating, and composing LLM prompts using PHP classes with variable interpolation and dynamic prompt building",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-08-13T12:01:50Z",
-            "owner": "SabatinoMasala",
-            "repo": "laravel-llm-prompt",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Prompt Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌟 laravel/scout",
-          "description": "– Search abstraction (useful for vector search)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-10T17:17:17Z",
-            "owner": "laravel",
-            "repo": "scout",
-            "stars": 1675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "teamtnt/laravel-scout-tntsearch-driver",
-          "description": "Local full-text search",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T10:09:07Z",
-            "owner": "teamtnt",
-            "repo": "laravel-scout-tntsearch-driver",
-            "stars": 1136
-          }
-        }
-      ],
-      "title": "Search & vector search"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2306,6 +2467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 967948479,
             "language": "PHP",
             "last_commit": "2026-08-17T06:55:36Z",
             "owner": "symfony",
@@ -2320,6 +2482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609324718,
             "language": "PHP",
             "last_commit": "2026-08-04T15:20:57Z",
             "owner": "openai-php",
@@ -2334,6 +2497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017949167,
             "language": "PHP",
             "last_commit": "2026-08-17T06:55:41Z",
             "owner": "symfony",
@@ -2348,6 +2512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017944851,
             "language": "PHP",
             "last_commit": "2026-08-03T19:03:06Z",
             "owner": "symfony",
@@ -2362,6 +2527,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017949071,
             "language": "PHP",
             "last_commit": "2026-08-07T20:14:54Z",
             "owner": "symfony",
@@ -2376,6 +2542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017944904,
             "language": "PHP",
             "last_commit": "2026-08-17T06:50:56Z",
             "owner": "symfony",
@@ -2390,6 +2557,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017949125,
             "language": "PHP",
             "last_commit": "2026-07-22T17:00:32Z",
             "owner": "symfony",
@@ -2404,6 +2572,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162541443,
             "language": "PHP",
             "last_commit": "2026-02-21T15:06:36Z",
             "owner": "soleinjast",
@@ -2415,63 +2584,53 @@
       "title": "Symfony & Framework Integrations"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome PHP",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14705691,
+                "language": null,
+                "last_commit": "2026-07-13T19:44:57Z",
+                "owner": "ziadoz",
+                "repo": "awesome-php",
+                "stars": 32657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🧪 dykyi-roman/awesome-claude-code",
+              "description": "Curated collection of commands, agents, skills, hooks, and tools for enhancing Claude Code AI workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1146518672,
+                "language": "Python",
+                "last_commit": "2026-08-16T06:30:11Z",
+                "owner": "dykyi-roman",
+                "repo": "awesome-claude-code",
+                "stars": 96
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-13T19:44:57Z",
-            "owner": "ziadoz",
-            "repo": "awesome-php",
-            "stars": 32653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🧪 dykyi-roman/awesome-claude-code",
-          "description": "Curated collection of commands, agents, skills, hooks, and tools for enhancing Claude Code AI workflows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T06:30:11Z",
-            "owner": "dykyi-roman",
-            "repo": "awesome-claude-code",
-            "stars": 96
-          }
+          "node_type": "group",
+          "title": "General"
         }
       ],
-      "title": "General"
-    },
-    {
-      "description": "If this project helps you, you can support development here:\n💖 Sponsor me on GitHub",
-      "items": [],
-      "title": "Support this project"
-    },
-    {
-      "description": "This list is licensed under the MIT License – see LICENSE for details.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "Contributions are welcome!Please see CONTRIBUTING.md for details, including criteria for adding new projects (maintenance, documentation, tests, etc).\n↑ Back to top",
-      "items": [],
-      "title": "Contributing"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:14:26.540Z",
+    "last_updated": "2026-08-19T12:19:20.776Z",
     "original_repository": "apphp/awesome-php-ml",
+    "original_repository_id": 1122481530,
     "original_repository_sha": "1c065d0f199d717b32e6384df02e0f1a6157869f",
     "enhanced_repository": "enhansome/enhansome-php-ml",
     "enhanced_repository_description": null,
