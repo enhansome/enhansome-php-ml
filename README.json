@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 470923385,
                 "language": "PHP",
-                "last_commit": "2026-08-12T01:31:55Z",
+                "last_commit": "2026-08-20T11:20:04Z",
                 "owner": "DeepL",
                 "repo": "deepl-php",
                 "stars": 257
@@ -114,7 +114,7 @@
                 "last_commit": "2026-07-26T08:28:11Z",
                 "owner": "LLPhant",
                 "repo": "LLPhant",
-                "stars": 1708
+                "stars": 1707
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-19T10:45:40Z",
                 "owner": "swoole",
                 "repo": "phpy",
-                "stars": 650
+                "stars": 651
               }
             }
           ],
@@ -344,7 +344,7 @@
             "archived": false,
             "id": 146601310,
             "language": "PHP",
-            "last_commit": "2026-08-19T12:18:34Z",
+            "last_commit": "2026-08-20T08:23:54Z",
             "owner": "davmixcool",
             "repo": "php-sentiment-analyzer",
             "stars": 135
@@ -440,7 +440,7 @@
             "archived": false,
             "id": 7704544,
             "language": "PHP",
-            "last_commit": "2026-08-16T14:44:26Z",
+            "last_commit": "2026-08-19T14:57:53Z",
             "owner": "Intervention",
             "repo": "image",
             "stars": 14366
@@ -458,7 +458,7 @@
             "last_commit": "2026-05-15T07:52:56Z",
             "owner": "aschmelyun",
             "repo": "subvert",
-            "stars": 869
+            "stars": 868
           }
         },
         {
@@ -554,7 +554,7 @@
             "last_commit": "2026-08-09T13:08:14Z",
             "owner": "brick",
             "repo": "math",
-            "stars": 2160
+            "stars": 2161
           }
         },
         {
@@ -652,7 +652,7 @@
                 "last_commit": "2026-06-18T15:24:35Z",
                 "owner": "phpmlkit",
                 "repo": "ndarray",
-                "stars": 50
+                "stars": 49
               }
             },
             {
@@ -775,7 +775,7 @@
             "last_commit": "2026-08-12T12:46:11Z",
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 4989
+            "stars": 4993
           }
         },
         {
@@ -865,7 +865,7 @@
             "last_commit": "2026-08-17T12:33:33Z",
             "owner": "aimeos",
             "repo": "prisma",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -925,7 +925,7 @@
             "last_commit": "2026-08-18T00:36:18Z",
             "owner": "dg",
             "repo": "ai-access",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -1194,7 +1194,7 @@
                 "archived": false,
                 "id": 900612306,
                 "language": "PHP",
-                "last_commit": "2026-08-18T20:34:20Z",
+                "last_commit": "2026-08-20T07:50:52Z",
                 "owner": "logiscape",
                 "repo": "mcp-sdk-php",
                 "stars": 368
@@ -1294,7 +1294,7 @@
                 "last_commit": "2026-08-12T22:32:31Z",
                 "owner": "b7s",
                 "repo": "fluentvox",
-                "stars": 88
+                "stars": 89
               }
             },
             {
@@ -1414,10 +1414,10 @@
             "archived": false,
             "id": 359952601,
             "language": "C",
-            "last_commit": "2026-08-15T16:00:34Z",
+            "last_commit": "2026-08-20T03:47:50Z",
             "owner": "pgvector",
             "repo": "pgvector",
-            "stars": 22672
+            "stars": 22680
           }
         },
         {
@@ -1432,7 +1432,7 @@
             "last_commit": "2026-07-26T08:28:11Z",
             "owner": "LLPhant",
             "repo": "LLPhant",
-            "stars": 1708
+            "stars": 1707
           }
         },
         {
@@ -1459,7 +1459,7 @@
             "archived": false,
             "id": 10172371,
             "language": "PHP",
-            "last_commit": "2026-08-18T12:43:37Z",
+            "last_commit": "2026-08-20T09:26:18Z",
             "owner": "algolia",
             "repo": "algoliasearch-client-php",
             "stars": 697
@@ -1600,7 +1600,7 @@
             "archived": false,
             "id": 14875475,
             "language": "PHP",
-            "last_commit": "2026-08-19T12:25:05Z",
+            "last_commit": "2026-08-20T10:30:39Z",
             "owner": "thephpleague",
             "repo": "csv",
             "stars": 3480
@@ -1630,7 +1630,7 @@
             "archived": false,
             "id": 1398663,
             "language": "PHP",
-            "last_commit": "2026-08-19T08:46:13Z",
+            "last_commit": "2026-08-19T17:30:50Z",
             "owner": "symfony",
             "repo": "serializer",
             "stars": 2536
@@ -1711,10 +1711,10 @@
             "archived": false,
             "id": 941562247,
             "language": "PHP",
-            "last_commit": "2026-08-18T10:09:19Z",
+            "last_commit": "2026-08-20T09:51:29Z",
             "owner": "neuron-core",
             "repo": "neuron-ai",
-            "stars": 2056
+            "stars": 2058
           }
         },
         {
@@ -1726,7 +1726,7 @@
             "archived": false,
             "id": 43642389,
             "language": "PHP",
-            "last_commit": "2026-08-19T02:13:20Z",
+            "last_commit": "2026-08-20T00:12:31Z",
             "owner": "googleapis",
             "repo": "google-cloud-php",
             "stars": 1181
@@ -1744,7 +1744,7 @@
             "last_commit": "2026-07-24T05:32:04Z",
             "owner": "grpc",
             "repo": "grpc-php",
-            "stars": 513
+            "stars": 514
           }
         },
         {
@@ -1756,7 +1756,7 @@
             "archived": false,
             "id": 470923385,
             "language": "PHP",
-            "last_commit": "2026-08-12T01:31:55Z",
+            "last_commit": "2026-08-20T11:20:04Z",
             "owner": "DeepL",
             "repo": "deepl-php",
             "stars": 257
@@ -1840,7 +1840,7 @@
             "last_commit": "2026-02-02T09:58:07Z",
             "owner": "php-fig",
             "repo": "log",
-            "stars": 10419
+            "stars": 10420
           }
         },
         {
@@ -1852,10 +1852,10 @@
             "archived": false,
             "id": 1398630,
             "language": "PHP",
-            "last_commit": "2026-08-18T15:23:10Z",
+            "last_commit": "2026-08-20T10:57:07Z",
             "owner": "symfony",
             "repo": "console",
-            "stars": 9809
+            "stars": 9810
           }
         },
         {
@@ -2013,7 +2013,7 @@
                 "last_commit": "2026-08-19T04:42:47Z",
                 "owner": "laravel",
                 "repo": "boost",
-                "stars": 3581
+                "stars": 3583
               }
             },
             {
@@ -2025,10 +2025,10 @@
                 "archived": false,
                 "id": 1118335720,
                 "language": "PHP",
-                "last_commit": "2026-08-19T08:20:43Z",
+                "last_commit": "2026-08-20T09:34:18Z",
                 "owner": "laravel",
                 "repo": "ai",
-                "stars": 1105
+                "stars": 1106
               }
             },
             {
@@ -2305,7 +2305,7 @@
                 "last_commit": "2026-03-20T20:37:40Z",
                 "owner": "prism-php",
                 "repo": "prism",
-                "stars": 2414
+                "stars": 2415
               }
             },
             {
@@ -2469,10 +2469,10 @@
             "archived": false,
             "id": 967948479,
             "language": "PHP",
-            "last_commit": "2026-08-17T06:55:36Z",
+            "last_commit": "2026-08-20T04:48:57Z",
             "owner": "symfony",
             "repo": "ai",
-            "stars": 1182
+            "stars": 1183
           }
         },
         {
@@ -2487,7 +2487,7 @@
             "last_commit": "2026-08-04T15:20:57Z",
             "owner": "openai-php",
             "repo": "symfony",
-            "stars": 220
+            "stars": 219
           }
         },
         {
@@ -2529,7 +2529,7 @@
             "archived": false,
             "id": 1017949071,
             "language": "PHP",
-            "last_commit": "2026-08-07T20:14:54Z",
+            "last_commit": "2026-08-19T21:40:17Z",
             "owner": "symfony",
             "repo": "ai-agent",
             "stars": 32
@@ -2600,7 +2600,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32657
+                "stars": 32662
               }
             },
             {
@@ -2628,7 +2628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:57.632Z",
+    "last_updated": "2026-08-20T12:15:46.388Z",
     "original_repository": "apphp/awesome-php-ml",
     "original_repository_id": 1122481530,
     "original_repository_sha": "1c065d0f199d717b32e6384df02e0f1a6157869f",
