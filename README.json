@@ -114,7 +114,7 @@
                 "last_commit": "2026-07-26T08:28:11Z",
                 "owner": "LLPhant",
                 "repo": "LLPhant",
-                "stars": 1708
+                "stars": 1707
               }
             },
             {
@@ -440,7 +440,7 @@
             "archived": false,
             "id": 7704544,
             "language": "PHP",
-            "last_commit": "2026-08-23T05:40:18Z",
+            "last_commit": "2026-08-24T13:25:53Z",
             "owner": "Intervention",
             "repo": "image",
             "stars": 14365
@@ -741,6 +741,28 @@
           "description": null,
           "node_type": "group",
           "title": "Model execution & runtimes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌟 swoole/phpy",
+              "description": "Bridge for calling Python from PHP via a runtime bridge",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727141597,
+                "language": "PHP",
+                "last_commit": "2026-08-19T10:45:40Z",
+                "owner": "swoole",
+                "repo": "phpy",
+                "stars": 651
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interoperability"
         }
       ],
       "title": "Core ML Infrastructure"
@@ -832,7 +854,7 @@
             "archived": false,
             "id": 763463572,
             "language": "PHP",
-            "last_commit": "2026-08-24T10:22:48Z",
+            "last_commit": "2026-08-24T13:40:24Z",
             "owner": "cognesy",
             "repo": "instructor-php",
             "stars": 326
@@ -1187,6 +1209,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🧪 univeros/framework",
+              "description": "Agent-native PHP framework with deterministic scaffolding, MCP server, machine-readable CLI, reversible code generation, and AI-oriented development primitives for building APIs and applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74684502,
+                "language": "PHP",
+                "last_commit": "2026-06-10T05:22:26Z",
+                "owner": "univeros",
+                "repo": "framework",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI-native Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "logiscape/mcp-sdk-php",
               "description": "PHP SDK for building Model Context Protocol (MCP) clients and servers to connect LLMs with external tools and services",
               "children": [],
@@ -1432,7 +1476,7 @@
             "last_commit": "2026-07-26T08:28:11Z",
             "owner": "LLPhant",
             "repo": "LLPhant",
-            "stars": 1708
+            "stars": 1707
           }
         },
         {
@@ -1714,7 +1758,7 @@
             "last_commit": "2026-08-20T13:40:05Z",
             "owner": "neuron-core",
             "repo": "neuron-ai",
-            "stars": 2058
+            "stars": 2059
           }
         },
         {
@@ -2010,7 +2054,7 @@
                 "archived": false,
                 "id": 1020205087,
                 "language": "PHP",
-                "last_commit": "2026-08-21T05:04:37Z",
+                "last_commit": "2026-08-24T12:23:56Z",
                 "owner": "laravel",
                 "repo": "boost",
                 "stars": 3587
@@ -2028,7 +2072,7 @@
                 "last_commit": "2026-08-24T12:06:34Z",
                 "owner": "laravel",
                 "repo": "ai",
-                "stars": 1114
+                "stars": 1115
               }
             },
             {
@@ -2384,6 +2428,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🧪 subhashladumor1/laravel-ai-guard",
+              "description": "Laravel package for tracking LLM token usage, estimating AI costs, enforcing per-user or per-tenant budgets, and preventing unexpected AI billing spikes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1152608951,
+                "language": "PHP",
+                "last_commit": "2026-02-14T08:14:38Z",
+                "owner": "subhashladumor1",
+                "repo": "laravel-ai-guard",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring / Cost Control"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RedberryProducts/mcp-client-laravel",
+              "description": "Laravel-native MCP client for connecting to Model Context Protocol servers via HTTP or STDIO, retrieving tools and resources, and integrating external agent capabilities into Laravel apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1009459294,
+                "language": "PHP",
+                "last_commit": "2026-08-17T13:38:00Z",
+                "owner": "RedberryProducts",
+                "repo": "mcp-client-laravel",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MCP / Tooling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🧪 prismaticoder/laravel-prompt-manager",
               "description": "Laravel package for managing, versioning, and testing AI prompts for LLM-powered applications",
               "children": [],
@@ -2600,7 +2688,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32671
+                "stars": 32672
               }
             },
             {
@@ -2622,13 +2710,35 @@
           "description": null,
           "node_type": "group",
           "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tensorflow/tfjs",
+              "description": "JavaScript machine learning platform for training and running models in the browser or Node.js (TensorFlow.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123870315,
+                "language": "TypeScript",
+                "last_commit": "2026-06-23T00:04:38Z",
+                "owner": "tensorflow",
+                "repo": "tfjs",
+                "stars": 19134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ML / AI Platforms"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:15:56.440Z",
+    "last_updated": "2026-08-24T14:40:40.709Z",
     "original_repository": "apphp/awesome-php-ml",
     "original_repository_id": 1122481530,
     "original_repository_sha": "1c065d0f199d717b32e6384df02e0f1a6157869f",
