@@ -12,11 +12,12 @@
             "archived": false,
             "id": 121482350,
             "language": "PHP",
-            "last_commit": "2026-08-27T18:45:22Z",
+            "last_commit": "2026-08-28T20:45:28Z",
             "owner": "RubixML",
             "repo": "ML",
             "stars": 2204
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mzarnecki",
             "repo": "php-rag",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "children": [
@@ -48,7 +50,8 @@
                 "owner": "openai-php",
                 "repo": "client",
                 "stars": 5829
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "DeepL",
                 "repo": "deepl-php",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "openai-php",
                 "repo": "client",
                 "stars": 5829
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 121482350,
                 "language": "PHP",
-                "last_commit": "2026-08-27T18:45:22Z",
+                "last_commit": "2026-08-28T20:45:28Z",
                 "owner": "RubixML",
                 "repo": "ML",
                 "stars": 2204
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "LLPhant",
                 "repo": "LLPhant",
                 "stars": 1708
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -126,11 +133,12 @@
                 "archived": false,
                 "id": 370006659,
                 "language": "PHP",
-                "last_commit": "2026-08-26T04:34:04Z",
+                "last_commit": "2026-08-28T04:34:09Z",
                 "owner": "flow-php",
                 "repo": "flow",
                 "stars": 865
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "swoole",
                 "repo": "phpy",
                 "stars": 653
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": "These are opinionated defaults you can reach for when you just want something that works in production.",
@@ -171,7 +180,8 @@
             "owner": "CodeWithKyrian",
             "repo": "transformers-php",
             "stars": 765
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -186,7 +196,8 @@
             "owner": "php-ai",
             "repo": "php-ml-examples",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -201,7 +212,8 @@
             "owner": "jbboehr",
             "repo": "PolynomialRegression.php",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -216,7 +228,8 @@
             "owner": "danielefavi",
             "repo": "brainy",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -231,7 +244,8 @@
             "owner": "sphamster",
             "repo": "bayes",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Machine Learning"
@@ -248,11 +262,12 @@
             "archived": false,
             "id": 121482350,
             "language": "PHP",
-            "last_commit": "2026-08-27T18:45:22Z",
+            "last_commit": "2026-08-28T20:45:28Z",
             "owner": "RubixML",
             "repo": "ML",
             "stars": 2204
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -267,7 +282,8 @@
             "owner": "rindow",
             "repo": "rindow-neuralnetworks",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Deep Learning & Neural Networks"
@@ -288,7 +304,8 @@
             "owner": "patrickschur",
             "repo": "language-detection",
             "stars": 857
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -303,7 +320,8 @@
             "owner": "angeloskath",
             "repo": "php-nlp-tools",
             "stars": 765
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -318,7 +336,8 @@
             "owner": "yooper",
             "repo": "php-text-analysis",
             "stars": 534
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -333,7 +352,8 @@
             "owner": "google",
             "repo": "myanmar-tools",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -348,7 +368,8 @@
             "owner": "davmixcool",
             "repo": "php-sentiment-analyzer",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -363,7 +384,8 @@
             "owner": "RubixML",
             "repo": "Sentiment",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -374,11 +396,12 @@
             "archived": false,
             "id": 90291064,
             "language": "PHP",
-            "last_commit": "2026-06-23T18:09:15Z",
+            "last_commit": "2026-08-28T10:55:29Z",
             "owner": "voku",
             "repo": "stop-words",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -393,7 +416,8 @@
             "owner": "ankane",
             "repo": "mitie-php",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -408,7 +432,8 @@
             "owner": "SerafimArts",
             "repo": "TF-IDF",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -423,7 +448,8 @@
             "owner": "friteuseb",
             "repo": "nlp_tools",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Natural Language Processing"
@@ -440,11 +466,12 @@
             "archived": false,
             "id": 7704544,
             "language": "PHP",
-            "last_commit": "2026-08-26T14:55:50Z",
+            "last_commit": "2026-08-28T14:01:59Z",
             "owner": "Intervention",
             "repo": "image",
             "stars": 14366
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -459,7 +486,8 @@
             "owner": "aschmelyun",
             "repo": "subvert",
             "stars": 868
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -474,7 +502,8 @@
             "owner": "php-opencv",
             "repo": "php-opencv",
             "stars": 365
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -489,7 +518,8 @@
             "owner": "jcupitt",
             "repo": "libvips",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -504,7 +534,8 @@
             "owner": "mailmug",
             "repo": "php-dlib",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -519,7 +550,8 @@
             "owner": "b7s",
             "repo": "fluentvision",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Computer Vision, Image & Video Processing"
@@ -540,7 +572,8 @@
             "owner": "markrogoyski",
             "repo": "math-php",
             "stars": 2410
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -551,11 +584,12 @@
             "archived": false,
             "id": 23512728,
             "language": "PHP",
-            "last_commit": "2026-08-26T23:16:59Z",
+            "last_commit": "2026-08-28T20:57:29Z",
             "owner": "brick",
             "repo": "math",
             "stars": 2162
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -570,7 +604,8 @@
             "owner": "Hi-Folks",
             "repo": "statistics",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -585,7 +620,8 @@
             "owner": "NumPHP",
             "repo": "NumPHP",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -600,7 +636,8 @@
             "owner": "mcordingley",
             "repo": "LinearAlgebra",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Math, Statistics & Linear Algebra"
@@ -623,7 +660,8 @@
                 "owner": "RubixML",
                 "repo": "Tensor",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -638,7 +676,8 @@
                 "owner": "krakjoe",
                 "repo": "ort",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -653,7 +692,8 @@
                 "owner": "phpmlkit",
                 "repo": "ndarray",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -668,7 +708,8 @@
                 "owner": "RubixML",
                 "repo": "numpower",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -683,7 +724,8 @@
                 "owner": "rindow",
                 "repo": "rindow-math-matrix",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -705,7 +747,8 @@
                 "owner": "ankane",
                 "repo": "onnxruntime-php",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -720,7 +763,8 @@
                 "owner": "phpmlkit",
                 "repo": "onnxruntime",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -734,8 +778,9 @@
                 "last_commit": "2026-06-12T16:54:10Z",
                 "owner": "DisplaceTech",
                 "repo": "ext-infer",
-                "stars": 5
-              }
+                "stars": 6
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -757,7 +802,8 @@
                 "owner": "swoole",
                 "repo": "phpy",
                 "stars": 653
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -783,7 +829,8 @@
             "owner": "openai-php",
             "repo": "client",
             "stars": 5829
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -797,8 +844,9 @@
             "last_commit": "2026-08-12T12:46:11Z",
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 4997
-          }
+            "stars": 4998
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -813,7 +861,8 @@
             "owner": "orhanerday",
             "repo": "open-ai",
             "stars": 2366
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -828,7 +877,8 @@
             "owner": "deepseek-php",
             "repo": "deepseek-php-client",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -843,7 +893,8 @@
             "owner": "google-gemini-php",
             "repo": "client",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -854,11 +905,12 @@
             "archived": false,
             "id": 763463572,
             "language": "PHP",
-            "last_commit": "2026-08-27T20:28:11Z",
+            "last_commit": "2026-08-28T09:47:00Z",
             "owner": "cognesy",
             "repo": "instructor-php",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -873,7 +925,8 @@
             "owner": "kambo-1st",
             "repo": "langchain-php",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -888,7 +941,8 @@
             "owner": "aimeos",
             "repo": "prisma",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -903,7 +957,8 @@
             "owner": "ArdaGnsrn",
             "repo": "ollama-php",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -918,7 +973,8 @@
             "owner": "llm-agents-php",
             "repo": "agents",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -933,7 +989,8 @@
             "owner": "mzarnecki",
             "repo": "php-rag",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -948,7 +1005,8 @@
             "owner": "dg",
             "repo": "ai-access",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -963,7 +1021,8 @@
             "owner": "mozex",
             "repo": "anthropic-php",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -978,7 +1037,8 @@
             "owner": "skito",
             "repo": "aipi-php",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -993,7 +1053,8 @@
             "owner": "prism-php",
             "repo": "bedrock",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1008,7 +1069,8 @@
             "owner": "adrienbrault",
             "repo": "instructrice",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1023,7 +1085,8 @@
             "owner": "elastic",
             "repo": "elasticsearch-chatgpt-php",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1038,7 +1101,8 @@
             "owner": "SoftCreatR",
             "repo": "php-mistral-ai-sdk",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1053,7 +1117,8 @@
             "owner": "Clarifai",
             "repo": "clarifai-php-grpc",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1068,7 +1133,8 @@
             "owner": "HosonoDE",
             "repo": "EasyAI-PHP",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1083,7 +1149,8 @@
             "owner": "sarfraznawaz2005",
             "repo": "ai-team",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1098,7 +1165,8 @@
             "owner": "utopia-php",
             "repo": "agents",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1181,8 @@
             "owner": "EliasPereirah",
             "repo": "SearchAugmentedLLM",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1128,7 +1197,8 @@
             "owner": "FunkyOz",
             "repo": "mulagent",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1143,7 +1213,8 @@
             "owner": "llm-agents-php",
             "repo": "prompt-generator",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1158,7 +1229,8 @@
             "owner": "thojou",
             "repo": "php-llm-documents",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1173,7 +1245,8 @@
             "owner": "carmelosantana",
             "repo": "php-agents",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1188,7 +1261,8 @@
             "owner": "takaaki-mizuno",
             "repo": "php-llm-json-adapter",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1203,7 +1277,8 @@
             "owner": "runapi-ai",
             "repo": "gpt-image-2-php",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "children": [
@@ -1220,7 +1295,8 @@
                 "owner": "univeros",
                 "repo": "framework",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -1242,7 +1318,8 @@
                 "owner": "logiscape",
                 "repo": "mcp-sdk-php",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1256,8 +1333,9 @@
                 "last_commit": "2026-03-20T12:24:26Z",
                 "owner": "prism-php",
                 "repo": "relay",
-                "stars": 151
-              }
+                "stars": 152
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1350,8 @@
                 "owner": "manuelkiessling",
                 "repo": "php-ai-tool-bridge",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1287,7 +1366,8 @@
                 "owner": "symfony",
                 "repo": "mcp-sdk",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1302,7 +1382,8 @@
                 "owner": "neuron-core",
                 "repo": "youtube-ai-agent",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1398,8 @@
                 "owner": "neuron-core",
                 "repo": "llm-classifier",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -1339,7 +1421,8 @@
                 "owner": "b7s",
                 "repo": "fluentvox",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1437,8 @@
                 "owner": "b7s",
                 "repo": "whisper-php",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -1376,7 +1460,8 @@
                 "owner": "yethee",
                 "repo": "tiktoken-php",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1391,7 +1476,8 @@
                 "owner": "HelgeSverre",
                 "repo": "toon-php",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1406,7 +1492,8 @@
                 "owner": "Gioni06",
                 "repo": "GPT3Tokenizer",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1420,8 +1507,9 @@
                 "last_commit": "2026-06-17T21:02:06Z",
                 "owner": "CodeWithKyrian",
                 "repo": "tokenizers-php",
-                "stars": 19
-              }
+                "stars": 20
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -1436,7 +1524,8 @@
                 "owner": "RahulDey12",
                 "repo": "tiktoken-php",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -1461,8 +1550,9 @@
             "last_commit": "2026-08-20T03:47:50Z",
             "owner": "pgvector",
             "repo": "pgvector",
-            "stars": 22785
-          }
+            "stars": 22802
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1567,8 @@
             "owner": "LLPhant",
             "repo": "LLPhant",
             "stars": 1708
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1583,8 @@
             "owner": "meilisearch",
             "repo": "meilisearch-php",
             "stars": 758
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1507,7 +1599,8 @@
             "owner": "algolia",
             "repo": "algoliasearch-client-php",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1615,8 @@
             "owner": "pgvector",
             "repo": "pgvector-php",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1536,8 +1630,9 @@
             "last_commit": "2026-04-18T06:56:14Z",
             "owner": "hkulekci",
             "repo": "qdrant-php",
-            "stars": 177
-          }
+            "stars": 178
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1647,8 @@
             "owner": "CodeWithKyrian",
             "repo": "chromadb-php",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1567,7 +1663,8 @@
             "owner": "probots-io",
             "repo": "pinecone-php",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1679,8 @@
             "owner": "b7s",
             "repo": "neuraphp",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1597,7 +1695,8 @@
             "owner": "redis-applied-ai",
             "repo": "redis-vector-php",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1711,8 @@
             "owner": "Voyanara",
             "repo": "milvus-php-sdk",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1727,8 @@
             "owner": "llm-agents-php",
             "repo": "vector-storage",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Embeddings & Vector Search"
@@ -1648,7 +1749,8 @@
             "owner": "thephpleague",
             "repo": "csv",
             "stars": 3480
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1662,8 +1764,9 @@
             "last_commit": "2025-11-27T18:58:45Z",
             "owner": "cocur",
             "repo": "slugify",
-            "stars": 2899
-          }
+            "stars": 2898
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1674,11 +1777,12 @@
             "archived": false,
             "id": 1398663,
             "language": "PHP",
-            "last_commit": "2026-08-26T09:24:06Z",
+            "last_commit": "2026-08-28T16:04:52Z",
             "owner": "symfony",
             "repo": "serializer",
             "stars": 2536
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1797,8 @@
             "owner": "spatie",
             "repo": "data-transfer-object",
             "stars": 2227
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1707,8 +1812,9 @@
             "last_commit": "2026-04-14T21:45:23Z",
             "owner": "php-ds",
             "repo": "ext-ds",
-            "stars": 2150
-          }
+            "stars": 2151
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1719,11 +1825,12 @@
             "archived": false,
             "id": 370006659,
             "language": "PHP",
-            "last_commit": "2026-08-26T04:34:04Z",
+            "last_commit": "2026-08-28T04:34:09Z",
             "owner": "flow-php",
             "repo": "flow",
             "stars": 865
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1738,7 +1845,8 @@
             "owner": "paperdoc-dev",
             "repo": "paperdoc-lib",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Data Processing"
@@ -1758,8 +1866,9 @@
             "last_commit": "2026-08-20T13:40:05Z",
             "owner": "neuron-core",
             "repo": "neuron-ai",
-            "stars": 2063
-          }
+            "stars": 2065
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1770,11 +1879,12 @@
             "archived": false,
             "id": 43642389,
             "language": "PHP",
-            "last_commit": "2026-08-27T21:01:45Z",
+            "last_commit": "2026-08-28T20:55:47Z",
             "owner": "googleapis",
             "repo": "google-cloud-php",
-            "stars": 1181
-          }
+            "stars": 1182
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1899,8 @@
             "owner": "grpc",
             "repo": "grpc-php",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1915,8 @@
             "owner": "DeepL",
             "repo": "deepl-php",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1819,7 +1931,8 @@
             "owner": "distantmagic",
             "repo": "resonance",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1947,8 @@
             "owner": "garyblankenship",
             "repo": "mcp-php",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1849,7 +1963,8 @@
             "owner": "nlpcloud",
             "repo": "nlpcloud-php",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1864,7 +1979,8 @@
             "owner": "HossamBalaha",
             "repo": "Deep-Learning-Classification-System-using-PHP-and-Keras",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Interop & Model Serving"
@@ -1885,7 +2001,8 @@
             "owner": "php-fig",
             "repo": "log",
             "stars": 10421
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2017,8 @@
             "owner": "symfony",
             "repo": "console",
             "stars": 9810
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1914,8 +2032,9 @@
             "last_commit": "2026-08-04T15:20:01Z",
             "owner": "nunomaduro",
             "repo": "collision",
-            "stars": 4661
-          }
+            "stars": 4660
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1930,7 +2049,8 @@
             "owner": "symfony",
             "repo": "http-client",
             "stars": 2030
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1945,7 +2065,8 @@
             "owner": "guanguans",
             "repo": "ai-commit",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1959,8 +2080,9 @@
             "last_commit": "2026-03-11T19:54:49Z",
             "owner": "context-hub",
             "repo": "generator",
-            "stars": 339
-          }
+            "stars": 340
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1975,7 +2097,8 @@
             "owner": "joshembling",
             "repo": "laragenie",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -1990,7 +2113,8 @@
             "owner": "mariorazo97",
             "repo": "single-file-php-ai",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2005,7 +2129,8 @@
             "owner": "hiblaphp",
             "repo": "http-client",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2020,7 +2145,8 @@
             "owner": "apphp",
             "repo": "pretty-print",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Tools & Utilities"
@@ -2043,7 +2169,8 @@
                 "owner": "openai-php",
                 "repo": "laravel",
                 "stars": 3751
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2054,11 +2181,12 @@
                 "archived": false,
                 "id": 1020205087,
                 "language": "PHP",
-                "last_commit": "2026-08-26T21:40:21Z",
+                "last_commit": "2026-08-28T13:07:07Z",
                 "owner": "laravel",
                 "repo": "boost",
-                "stars": 3596
-              }
+                "stars": 3597
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2069,11 +2197,12 @@
                 "archived": false,
                 "id": 1118335720,
                 "language": "PHP",
-                "last_commit": "2026-08-27T18:41:36Z",
+                "last_commit": "2026-08-28T18:12:48Z",
                 "owner": "laravel",
                 "repo": "ai",
-                "stars": 1129
-              }
+                "stars": 1134
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2088,7 +2217,8 @@
                 "owner": "MaestroError",
                 "repo": "LarAgent",
                 "stars": 641
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2103,7 +2233,8 @@
                 "owner": "php-mcp",
                 "repo": "laravel",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2118,7 +2249,8 @@
                 "owner": "opgginc",
                 "repo": "laravel-mcp-server",
                 "stars": 331
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2133,7 +2265,8 @@
                 "owner": "vizra-ai",
                 "repo": "vizra-adk",
                 "stars": 296
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2148,7 +2281,8 @@
                 "owner": "grok-php",
                 "repo": "laravel",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2163,7 +2297,8 @@
                 "owner": "moe-mizrak",
                 "repo": "laravel-openrouter",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2178,7 +2313,8 @@
                 "owner": "neuron-core",
                 "repo": "neuron-laravel",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2189,11 +2325,12 @@
                 "archived": false,
                 "id": 794590471,
                 "language": "PHP",
-                "last_commit": "2026-08-07T00:52:49Z",
+                "last_commit": "2026-08-28T00:52:52Z",
                 "owner": "mozex",
                 "repo": "anthropic-laravel",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2208,7 +2345,8 @@
                 "owner": "atlas-php",
                 "repo": "atlas",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2223,7 +2361,8 @@
                 "owner": "builtbyberry",
                 "repo": "laravel-swarm",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2238,7 +2377,8 @@
                 "owner": "PapaRascal2020",
                 "repo": "sidekick",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2253,7 +2393,8 @@
                 "owner": "promptlyagentai",
                 "repo": "promptlyagent",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2268,7 +2409,8 @@
                 "owner": "Capevace",
                 "repo": "llm-magic",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2283,7 +2425,8 @@
                 "owner": "BorahLabs",
                 "repo": "LLM-Port-Laravel",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2298,7 +2441,8 @@
                 "owner": "rahasistiyakofficial",
                 "repo": "laravel-ai-integration",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2313,7 +2457,8 @@
                 "owner": "artisan-build",
                 "repo": "llm",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2328,7 +2473,8 @@
                 "owner": "shawnveltman",
                 "repo": "laravel-openai",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2349,8 +2495,9 @@
                 "last_commit": "2026-03-20T20:37:40Z",
                 "owner": "prism-php",
                 "repo": "prism",
-                "stars": 2420
-              }
+                "stars": 2422
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2361,11 +2508,12 @@
                 "archived": false,
                 "id": 367364180,
                 "language": "PHP",
-                "last_commit": "2026-06-26T09:48:48Z",
+                "last_commit": "2026-08-28T14:25:27Z",
                 "owner": "spatie",
                 "repo": "laravel-data",
                 "stars": 1783
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2380,7 +2528,8 @@
                 "owner": "jeremysalmon",
                 "repo": "LaravelLLMContext",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2398,11 +2547,12 @@
                 "archived": false,
                 "id": 1001910115,
                 "language": "PHP",
-                "last_commit": "2026-08-18T11:10:33Z",
+                "last_commit": "2026-08-28T13:20:17Z",
                 "owner": "jayeshmepani",
                 "repo": "laravel-gemini-translator",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2417,7 +2567,8 @@
                 "owner": "Capevace",
                 "repo": "ai-translations-for-laravel",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2439,7 +2590,8 @@
                 "owner": "subhashladumor1",
                 "repo": "laravel-ai-guard",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2461,7 +2613,8 @@
                 "owner": "RedberryProducts",
                 "repo": "mcp-client-laravel",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2483,7 +2636,8 @@
                 "owner": "prismaticoder",
                 "repo": "laravel-prompt-manager",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2498,7 +2652,8 @@
                 "owner": "SabatinoMasala",
                 "repo": "laravel-llm-prompt",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2520,7 +2675,8 @@
                 "owner": "laravel",
                 "repo": "scout",
                 "stars": 1679
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2535,7 +2691,8 @@
                 "owner": "teamtnt",
                 "repo": "laravel-scout-tntsearch-driver",
                 "stars": 1136
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2560,8 +2717,9 @@
             "last_commit": "2026-08-27T18:11:49Z",
             "owner": "symfony",
             "repo": "ai",
-            "stars": 1187
-          }
+            "stars": 1189
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2576,7 +2734,8 @@
             "owner": "openai-php",
             "repo": "symfony",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2591,7 +2750,8 @@
             "owner": "symfony",
             "repo": "ai-platform",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2605,8 +2765,9 @@
             "last_commit": "2026-08-24T06:51:53Z",
             "owner": "symfony",
             "repo": "mcp-bundle",
-            "stars": 48
-          }
+            "stars": 49
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2621,7 +2782,8 @@
             "owner": "symfony",
             "repo": "ai-agent",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2636,7 +2798,8 @@
             "owner": "symfony",
             "repo": "ai-bundle",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2651,7 +2814,8 @@
             "owner": "symfony",
             "repo": "ai-store",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         },
         {
           "node_type": "item",
@@ -2666,7 +2830,8 @@
             "owner": "soleinjast",
             "repo": "symfony-markdown-response-bundle",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:31:58.847Z"
         }
       ],
       "title": "Symfony & Framework Integrations"
@@ -2688,8 +2853,9 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32670
-              }
+                "stars": 32671
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             },
             {
               "node_type": "item",
@@ -2704,7 +2870,8 @@
                 "owner": "dykyi-roman",
                 "repo": "awesome-claude-code",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2726,7 +2893,8 @@
                 "owner": "tensorflow",
                 "repo": "tfjs",
                 "stars": 19134
-              }
+              },
+              "first_seen": "2026-08-28T21:31:58.847Z"
             }
           ],
           "description": null,
@@ -2738,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:24.543Z",
+    "last_updated": "2026-08-28T21:31:58.847Z",
     "original_repository_info": {
       "archived": false,
       "id": 1122481530,
