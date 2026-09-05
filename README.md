@@ -9,7 +9,7 @@
 
 The most comprehensive curated list of **Machine Learning, Artificial Intelligence, NLP, LLM and Data Science libraries for PHP**.
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,675 | 🐛 85 | 📅 2026-07-13 and the broader **Awesome** ecosystem.
+Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,676 | 🐛 85 | 📅 2026-07-13 and the broader **Awesome** ecosystem.
 
 > **Goal:** make it easy to build intelligent systems with PHP — from classic ML to modern LLM-based workflows.
 
@@ -74,7 +74,7 @@ Want to add a project? See the [Contributing](#contributing) section below for i
 ## How to use this list
 
 * **Classic ML / traditional models** – start with [php-ai/php-ml](https://gitlab.com/php-ai/php-ml) and [RubixML/RubixML](https://github.com/RubixML/RubixML) ⭐ 2,204 | 🐛 60 | 🌐 PHP | 📅 2026-09-04.
-* **RAG (Retrieval-Augmented Generation)** – combine [php-rag](https://github.com/mzarnecki/php-rag) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-07-19 with vector databases like [pgvector](https://github.com/pgvector/pgvector) ⭐ 22,906 | 🐛 14 | 🌐 C | 📅 2026-08-20 or [Meilisearch](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-09-01.
+* **RAG (Retrieval-Augmented Generation)** – combine [php-rag](https://github.com/mzarnecki/php-rag) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-07-19 with vector databases like [pgvector](https://github.com/pgvector/pgvector) ⭐ 22,920 | 🐛 14 | 🌐 C | 📅 2026-08-20 or [Meilisearch](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-09-01.
 * **LLM-powered apps & agents** – see [LLMs & AI APIs](#llms--ai-apis), [Embeddings & Vector Search](#embeddings--vector-search), and framework integrations (Laravel/Symfony).
 * **Numerical computing & math** – explore [Core ML Infrastructure](#core-ml-infrastructure) for tensors and matrices, and [Math, Statistics & Linear Algebra](#math-statistics--linear-algebra) for statistics and related math.
 * **Production integration** – use [Interop & Model Serving](#interop--model-serving) and framework integrations to wire models into real apps.
@@ -105,10 +105,10 @@ composer require llphant/llphant
 ### Example "recipes"
 
 * **I want to build a Laravel RAG app**\
-  Use an LLM client like 🌟 [openai-php/client](https://github.com/openai-php/client) ⭐ 5,827 | 🐛 27 | 🌐 PHP | 📅 2026-08-18, embeddings + vector search via 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 37 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,906 | 🐛 14 | 🌐 C | 📅 2026-08-20 or 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-09-01, and orchestrate agents/RAG flows with 🌟 [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) ⭐ 2,087 | 🐛 7 | 🌐 PHP | 📅 2026-09-04, integrating into Laravel using 🌟 [openai-php/laravel](https://github.com/openai-php/laravel) ⭐ 3,751 | 🐛 13 | 🌐 PHP | 📅 2026-07-27 and the packages under [Laravel & Framework Integrations](#laravel--framework-integrations).
+  Use an LLM client like 🌟 [openai-php/client](https://github.com/openai-php/client) ⭐ 5,827 | 🐛 27 | 🌐 PHP | 📅 2026-08-18, embeddings + vector search via 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 37 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,920 | 🐛 14 | 🌐 C | 📅 2026-08-20 or 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-09-01, and orchestrate agents/RAG flows with 🌟 [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) ⭐ 2,088 | 🐛 7 | 🌐 PHP | 📅 2026-09-04, integrating into Laravel using 🌟 [openai-php/laravel](https://github.com/openai-php/laravel) ⭐ 3,751 | 🐛 13 | 🌐 PHP | 📅 2026-07-27 and the packages under [Laravel & Framework Integrations](#laravel--framework-integrations).
 
 * **I only need translation or vision**\
-  For translation, see 🌟 [deepl-php](https://github.com/DeepLcom/deepl-php) ⭐ 257 | 🐛 27 | 🌐 PHP | 📅 2026-08-26 and 🌟 [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ⭐ 1,182 | 🐛 70 | 🌐 PHP | 📅 2026-09-04 under [Interop & Model Serving](#interop--model-serving). For image/vision workloads, combine [Computer Vision, Image & Video Processing](#computer-vision-image--video-processing) libraries with cloud AI services via 🌟 [symfony/ai](https://github.com/symfony/ai) ⭐ 1,195 | 🐛 174 | 🌐 PHP | 📅 2026-09-03 or [openai-php/client](https://github.com/openai-php/client) ⭐ 5,827 | 🐛 27 | 🌐 PHP | 📅 2026-08-18 from [LLMs & AI APIs](#llms--ai-apis).
+  For translation, see 🌟 [deepl-php](https://github.com/DeepLcom/deepl-php) ⭐ 257 | 🐛 27 | 🌐 PHP | 📅 2026-08-26 and 🌟 [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ⭐ 1,183 | 🐛 72 | 🌐 PHP | 📅 2026-09-04 under [Interop & Model Serving](#interop--model-serving). For image/vision workloads, combine [Computer Vision, Image & Video Processing](#computer-vision-image--video-processing) libraries with cloud AI services via 🌟 [symfony/ai](https://github.com/symfony/ai) ⭐ 1,195 | 🐛 164 | 🌐 PHP | 📅 2026-09-05 or [openai-php/client](https://github.com/openai-php/client) ⭐ 5,827 | 🐛 27 | 🌐 PHP | 📅 2026-08-18 from [LLMs & AI APIs](#llms--ai-apis).
 
 ### Recommended core stack
 
@@ -116,7 +116,7 @@ These are opinionated defaults you can reach for when you just want something th
 
 * **LLM clients:** 🌟 [openai-php/client](https://github.com/openai-php/client) ⭐ 5,827 | 🐛 27 | 🌐 PHP | 📅 2026-08-18 and 🌟 [google-gemini-php/client](https://github.com/google-gemini-php/client) ⭐ 409 | 🐛 9 | 🌐 PHP | 📅 2025-12-29 for major model providers.
 * **General ML:** 🌟 [RubixML/RubixML](https://github.com/RubixML/RubixML) ⭐ 2,204 | 🐛 60 | 🌐 PHP | 📅 2026-09-04 for end-to-end ML pipelines.
-* **Embeddings & vector search:** 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 37 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,906 | 🐛 14 | 🌐 C | 📅 2026-08-20, 🌟 [pgvector/pgvector-php](https://github.com/pgvector/pgvector-php) ⭐ 197 | 🐛 0 | 🌐 PHP | 📅 2026-07-09, 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-09-01 or 🌟 [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) ⭐ 697 | 🐛 20 | 🌐 PHP | 📅 2026-08-27.
+* **Embeddings & vector search:** 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) ⭐ 1,708 | 🐛 37 | 🌐 PHP | 📅 2026-07-26 with 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,920 | 🐛 14 | 🌐 C | 📅 2026-08-20, 🌟 [pgvector/pgvector-php](https://github.com/pgvector/pgvector-php) ⭐ 197 | 🐛 0 | 🌐 PHP | 📅 2026-07-09, 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-09-01 or 🌟 [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php) ⭐ 697 | 🐛 20 | 🌐 PHP | 📅 2026-08-27.
 * **Data processing:** 🌟 [flow-php/flow](https://github.com/flow-php/flow) ⭐ 865 | 🐛 43 | 🌐 PHP | 📅 2026-09-04 for typed ETL-style pipelines.
 * **Interop with Python ML:** 🌟 [swoole/phpy](https://github.com/swoole/phpy) ⭐ 654 | 🐛 3 | 🌐 PHP | 📅 2026-08-19 to call into the Python ecosystem when needed.
 
@@ -158,7 +158,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 *Text processing, tokenization, language detection, sentiment analysis and other NLP tasks in PHP.*
 
 * ⚠️ [patrickschur/language-detection](https://github.com/patrickschur/language-detection "Link to resource") ⭐ 857 | 🐛 7 | 🌐 PHP | 📅 2025-03-25 – Language detection library
-* ⚠️ [angeloskath/php-nlp-tools](https://github.com/angeloskath/php-nlp-tools "Link to resource") ⭐ 765 | 🐛 15 | 🌐 PHP | 📅 2024-07-22 – Natural Language Processing tools
+* ⚠️ [angeloskath/php-nlp-tools](https://github.com/angeloskath/php-nlp-tools "Link to resource") ⭐ 764 | 🐛 15 | 🌐 PHP | 📅 2024-07-22 – Natural Language Processing tools
 * [yooper/php-text-analysis](https://github.com/yooper/php-text-analysis "Link to resource") ⭐ 534 | 🐛 8 | 🌐 PHP | 📅 2024-12-28 – Sentiment analysis and NLP tools
 * ⚠️ [googlei18n/myanmar-tools](https://github.com/googlei18n/myanmar-tools "Link to resource") ⭐ 266 | 🐛 15 | 🌐 Java | 📅 2025-03-13 – Myanmar text encoding detection and Zawgyi ↔ Unicode conversion using a trained model (includes PHP support)
 * [davmixcool/php-sentiment-analyzer](https://github.com/davmixcool/php-sentiment-analyzer "Link to resource") ⭐ 135 | 🐛 0 | 🌐 PHP | 📅 2026-08-20 – Lightweight PHP library for sentiment analysis using lexical rules
@@ -174,7 +174,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 *Image manipulation, preprocessing, and computer vision workloads from PHP.*
 
-* 🌟 [Intervention/image](https://github.com/Intervention/image "Link to resource") ⭐ 14,366 | 🐛 22 | 🌐 PHP | 📅 2026-08-29 – ![GitHub stars](https://img.shields.io/github/stars/Intervention/image?style=social) Image manipulation library for CV preprocessing
+* 🌟 [Intervention/image](https://github.com/Intervention/image "Link to resource") ⭐ 14,365 | 🐛 22 | 🌐 PHP | 📅 2026-08-29 – ![GitHub stars](https://img.shields.io/github/stars/Intervention/image?style=social) Image manipulation library for CV preprocessing
 * 🧪 [aschmelyun/subvert](https://github.com/aschmelyun/subvert "Link to resource") ⭐ 868 | 🐛 26 | 🌐 PHP | 📅 2026-05-15 - Generate subtitles, summaries, and chapters from videos in seconds
 * 🧪 [php-opencv/php-opencv](https://github.com/php-opencv/php-opencv "Link to resource") ⚠️ Archived – OpenCV bindings for PHP
 * [jcupitt/vips](https://github.com/jcupitt/libvips "Link to resource") ⭐ 70 | 🐛 0 | 🌐 C | 📅 2021-09-22 – Fast image processing library with PHP bindings
@@ -229,13 +229,13 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 *Clients, SDKs, and frameworks for calling hosted LLMs and other AI providers from PHP.*
 
 * 🌟 [openai-php/client](https://github.com/openai-php/client "Link to resource") ⭐ 5,827 | 🐛 27 | 🌐 PHP | 📅 2026-08-18 – ![GitHub stars](https://img.shields.io/github/stars/openai-php/client?style=social) Official OpenAI PHP client
-* 🌟 [dtyq/magic](https://github.com/dtyq/magic "Link to resource") ⭐ 5,014 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-12 – ![GitHub stars](https://img.shields.io/github/stars/dtyq/magic?style=social) Open-source enterprise AI agent platform with generalist agents, workflow orchestration, IM integration, collaborative office features, and support for multiple LLMs
+* 🌟 [dtyq/magic](https://github.com/dtyq/magic "Link to resource") ⭐ 5,015 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-12 – ![GitHub stars](https://img.shields.io/github/stars/dtyq/magic?style=social) Open-source enterprise AI agent platform with generalist agents, workflow orchestration, IM integration, collaborative office features, and support for multiple LLMs
 * 🌟 [orhanerday/open-ai](https://github.com/orhanerday/open-ai "Link to resource") ⭐ 2,364 | 🐛 32 | 🌐 PHP | 📅 2025-03-12 – ![GitHub stars](https://img.shields.io/github/stars/orhanerday/open-ai?style=social) Popular OpenAI PHP SDK
 * [deepseek-php/deepseek-php-client](https://github.com/deepseek-php/deepseek-php-client "Link to resource") ⭐ 474 | 🐛 2 | 🌐 PHP | 📅 2026-05-24 – PHP client library for integrating with the DeepSeek AI API, providing a fluent API for model queries, streaming results, and support for multiple HTTP clients and models
 * 🌟 [google-gemini-php/client](https://github.com/google-gemini-php/client "Link to resource") ⭐ 409 | 🐛 9 | 🌐 PHP | 📅 2025-12-29 – ![GitHub stars](https://img.shields.io/github/stars/google-gemini-php/client?style=social) Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API
 * [cognesy/instructor-php](https://github.com/cognesy/instructor-php "Link to resource") ⭐ 326 | 🐛 3 | 🌐 PHP | 📅 2026-09-01 – Structured-output helper for LLM responses
 * 🌟 [kambo-1st/langchain-php](https://github.com/kambo-1st/langchain-php "Link to resource") ⭐ 322 | 🐛 8 | 🌐 PHP | 📅 2023-06-20 ![GitHub stars](https://img.shields.io/github/stars/kambo-1st/langchain-php?style=social) A PHP port of the LangChain framework for building composable LLM-powered applications
-* [aimeos/prisma](https://github.com/aimeos/prisma "Link to resource") ⭐ 219 | 🐛 1 | 🌐 PHP | 📅 2026-09-01 – ![GitHub stars](https://img.shields.io/github/stars/aimeos/prisma?style=social) Lightweight PHP package providing a unified interface for text, image, audio, and video AI providers
+* [aimeos/prisma](https://github.com/aimeos/prisma "Link to resource") ⭐ 221 | 🐛 1 | 🌐 PHP | 📅 2026-09-01 – ![GitHub stars](https://img.shields.io/github/stars/aimeos/prisma?style=social) Lightweight PHP package providing a unified interface for text, image, audio, and video AI providers
 * [ArdaGnsrn/ollama-php](https://github.com/ArdaGnsrn/ollama-php "Link to resource") ⭐ 208 | 🐛 7 | 🌐 PHP | 📅 2026-08-31 – A PHP client library for the Ollama LLM server, enabling completions, chat, model management, and embeddings via Ollama's API
 * 🌟 [llm-agents-php/agents](https://github.com/llm-agents-php/agents "Link to resource") ⭐ 169 | 🐛 5 | 🌐 PHP | 📅 2025-05-01 – ![GitHub stars](https://img.shields.io/github/stars/llm-agents-php/agents?style=social) LM Agents is a PHP library for building and managing Language Model (LLM) based agents
 * [mzarnecki/php-rag](https://github.com/mzarnecki/php-rag "Link to resource") ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-07-19 – PHP RAG toolkit for connecting vector search and LLMs in retrieval-augmented workflows
@@ -254,7 +254,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 * [FunkyOz/mulagent](https://github.com/FunkyOz/mulagent "Link to resource") ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2025-02-07 – Multi-agent orchestration framework for LLM applications
 * [llm-agents-php/prompt-generator](https://github.com/llm-agents-php/prompt-generator "Link to resource") ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2024-09-15 – Prompt generator for LLM agents with interceptors
 * [thojou/php-llm-documents](https://github.com/thojou/php-llm-documents "Link to resource") ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2023-10-09 – PHP library for LLM-based document processing (splitting, embeddings, vector store, search) inspired by LangChain/DocTran
-* 🧪 [carmelosantana/php-agents](https://github.com/carmelosantana/php-agents) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 – PHP framework for building AI agents with tool use, provider abstraction and multi-model support
+* 🧪 [carmelosantana/php-agents](https://github.com/carmelosantana/php-agents) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-04 – PHP framework for building AI agents with tool use, provider abstraction and multi-model support
 * [takaaki-mizuno/php-llm-json-adapter](https://github.com/takaaki-mizuno/php-llm-json-adapter "Link to resource") ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2024-04-28 – Adapter to normalize and return LLM responses as structured JSON using JSON Schema, with support for multiple providers (OpenAI, Gemini, Bedrock, Ollama)
 * 🧪 [runapi-ai/gpt-image-2-php](https://github.com/runapi-ai/gpt-image-2-php "Link to resource") ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-07-29 – PHP SDK for GPT Image 2 text-to-image and image editing workflows on RunAPI
 * [ModelFlow-AI (GitHub org)](https://github.com/modelflow-ai "Link to resource") – Collection of PHP packages for unified access to AI models, embeddings, and chat (OpenAI, Mistral, Ollama)
@@ -268,13 +268,13 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 * [logiscape/mcp-sdk-php](https://github.com/logiscape/mcp-sdk-php "Link to resource") ⭐ 369 | 🐛 0 | 🌐 PHP | 📅 2026-08-20 – PHP SDK for building Model Context Protocol (MCP) clients and servers to connect LLMs with external tools and services
 * [prism-php/relay](https://github.com/prism-php/relay "Link to resource") ⭐ 152 | 🐛 13 | 🌐 PHP | 📅 2026-03-20 – MCP client for Prism that lets PHP/Laravel AI agents connect to external Model Context Protocol servers and use their tools
 * 🧪 [manuelkiessling/php-ai-tool-bridge](https://github.com/manuelkiessling/php-ai-tool-bridge "Link to resource") ⭐ 75 | 🐛 2 | 🌐 PHP | 📅 2023-09-01 – PHP library for defining AI “tool functions” that let LLMs interact with application code and external services using structured JSON schemas
-* 🧪 [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk "Link to resource") ⭐ 45 | 🐛 0 | 🌐 PHP | 📅 2025-10-04 – Symfony's experimental PHP SDK for building Model Context Protocol (MCP) clients and servers
+* 🧪 [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk "Link to resource") ⚠️ Archived – Symfony's experimental PHP SDK for building Model Context Protocol (MCP) clients and servers
 * 🧪 [neuron-core/youtube-ai-agent](https://github.com/neuron-core/youtube-ai-agent "Link to resource") ⭐ 30 | 🐛 0 | 🌐 PHP | 📅 2025-10-21 – Example PHP AI agent built with Neuron for summarizing YouTube videos and generating content from them
 * 🧪 [neuron-core/llm-classifier](https://github.com/neuron-core/llm-classifier "Link to resource") ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2026-06-16 – Train lightweight classifiers that estimate prompt difficulty and route requests to the most cost-effective LLM, enabling intelligent model selection and inference cost optimization
 
 ### Speech & Text-to-Speech
 
-* [b7s/fluentvox](https://github.com/b7s/fluentvox "Link to resource") ⭐ 89 | 🐛 0 | 🌐 PHP | 📅 2026-08-12 – Fluent PHP API for state-of-the-art text-to-speech and voice cloning (Resemble AI's Chatterbox), with CLI, GPU acceleration, and multilingual support
+* [b7s/fluentvox](https://github.com/b7s/fluentvox "Link to resource") ⭐ 90 | 🐛 0 | 🌐 PHP | 📅 2026-08-12 – Fluent PHP API for state-of-the-art text-to-speech and voice cloning (Resemble AI's Chatterbox), with CLI, GPU acceleration, and multilingual support
 * [b7s/whisper-php](https://github.com/b7s/whisper-php "Link to resource") ⭐ 24 | 🐛 0 | 🌐 PHP | 📅 2026-07-03 – PHP wrapper/client for Whisper speech-to-text (ASR), enabling audio transcription via Whisper models
 
 ### Tokenizers & Prompt Utilities
@@ -291,7 +291,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 *Libraries for generating embeddings and performing vector similarity search from PHP applications.*
 
-* 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector "Link to resource") ⭐ 22,906 | 🐛 14 | 🌐 C | 📅 2026-08-20 – ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) Vector similarity search extension for PostgreSQL
+* 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector "Link to resource") ⭐ 22,920 | 🐛 14 | 🌐 C | 📅 2026-08-20 – ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) Vector similarity search extension for PostgreSQL
 * 🌟 [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant "Link to resource") ⭐ 1,708 | 🐛 37 | 🌐 PHP | 📅 2026-07-26 – ![GitHub stars](https://img.shields.io/github/stars/LLPhant/LLPhant?style=social) Comprehensive PHP generative AI framework supporting LLMs, embeddings, vector search and more
 * 🌟 [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php "Link to resource") ⭐ 757 | 🐛 61 | 🌐 PHP | 📅 2026-09-01 – ![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch-php?style=social) Client for Meilisearch search engine
 * 🌟 [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php "Link to resource") ⭐ 697 | 🐛 20 | 🌐 PHP | 📅 2026-08-27 – ![GitHub stars](https://img.shields.io/github/stars/algolia/algoliasearch-client-php?style=social) Algolia search client
@@ -324,8 +324,8 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 *Bridging PHP with native libraries, external services, and runtimes for deploying and serving ML and LLM models.*
 
-* 🌟 [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai "Link to resource") ⭐ 2,087 | 🐛 7 | 🌐 PHP | 📅 2026-09-04 – ![GitHub stars](https://img.shields.io/github/stars/neuron-core/neuron-ai?style=social) PHP agentic AI framework for building and orchestrating LLMs, RAG etc
-* 🌟 [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php "Link to resource") ⭐ 1,182 | 🐛 70 | 🌐 PHP | 📅 2026-09-04 – ![GitHub stars](https://img.shields.io/github/stars/googleapis/google-cloud-php?style=social) Official PHP client library for Google Cloud APIs (including ML/AI services like Vision, Translate, AutoML, Vertex AI, etc.)
+* 🌟 [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai "Link to resource") ⭐ 2,088 | 🐛 7 | 🌐 PHP | 📅 2026-09-04 – ![GitHub stars](https://img.shields.io/github/stars/neuron-core/neuron-ai?style=social) PHP agentic AI framework for building and orchestrating LLMs, RAG etc
+* 🌟 [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php "Link to resource") ⭐ 1,183 | 🐛 72 | 🌐 PHP | 📅 2026-09-04 – ![GitHub stars](https://img.shields.io/github/stars/googleapis/google-cloud-php?style=social) Official PHP client library for Google Cloud APIs (including ML/AI services like Vision, Translate, AutoML, Vertex AI, etc.)
 * [grpc/grpc-php](https://github.com/grpc/grpc-php "Link to resource") ⭐ 514 | 🐛 0 | 🌐 PHP | 📅 2026-07-24 – gRPC client for model services
 * 🌟 [deepl-php](https://github.com/DeepLcom/deepl-php "Link to resource") ⭐ 257 | 🐛 27 | 🌐 PHP | 📅 2026-08-26 – ![GitHub stars](https://img.shields.io/github/stars/DeepLcom/deepl-php?style=social) Official PHP client library for the DeepL API, enabling high-quality language translation via DeepL's AI/ML service
 * [distantmagic/resonance](https://github.com/distantmagic/resonance "Link to resource") ⚠️ Archived – Asynchronous PHP framework (Swoole-based) for building AI-powered, IO-intensive applications, with built-in web server, LLM integration (llama.cpp), WebSockets, and ML model serving capabilities
@@ -341,10 +341,10 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 *Supporting tools, debugging helpers, logging, and HTTP/CLI utilities commonly used in ML and AI workflows.*
 
 * [psr/log](https://github.com/php-fig/log "Link to resource") ⭐ 10,420 | 🐛 7 | 🌐 PHP | 📅 2026-02-02 – Logging standard
-* [symfony/console](https://github.com/symfony/console "Link to resource") ⭐ 9,809 | 🐛 0 | 🌐 PHP | 📅 2026-09-04 – CLI applications
+* [symfony/console](https://github.com/symfony/console "Link to resource") ⭐ 9,809 | 🐛 0 | 🌐 PHP | 📅 2026-09-05 – CLI applications
 * [nunomaduro/collision](https://github.com/nunomaduro/collision "Link to resource") ⭐ 4,661 | 🐛 42 | 🌐 PHP | 📅 2026-08-04 – CLI error handling (useful for ML tools)
-* [symfony/http-client](https://github.com/symfony/http-client "Link to resource") ⭐ 2,030 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 – Robust HTTP client for AI APIs
-* [guanguans/ai-commit](https://github.com/guanguans/ai-commit "Link to resource") ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-09-03 – AI-powered CLI to automatically generate conventional Git commit messages
+* [symfony/http-client](https://github.com/symfony/http-client "Link to resource") ⭐ 2,029 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 – Robust HTTP client for AI APIs
+* [guanguans/ai-commit](https://github.com/guanguans/ai-commit "Link to resource") ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-09-04 – AI-powered CLI to automatically generate conventional Git commit messages
 * 🧪 [context-hub/generator](https://github.com/context-hub/generator "Link to resource") ⭐ 341 | 🐛 18 | 🌐 PHP | 📅 2026-03-11 – Context-as-Code (CTX) tool that extracts and organizes codebase context into structured documents and MCP servers for LLM-assisted development
 * [joshembling/laragenie](https://github.com/joshembling/laragenie "Link to resource") ⭐ 149 | 🐛 1 | 🌐 PHP | 📅 2024-08-05 – AI chatbot/assistant for Laravel that indexes and understands your codebase via the command line (OpenAI + Pinecone)
 * 🧪 [mariorazo97/single-file-php-ai](https://github.com/mariorazo97/single-file-php-ai "Link to resource") ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2025-11-26 – Drop-in single-file PHP AI chat interface for Ollama and OpenAI, with no Node.js, Docker, database, or build step
@@ -358,9 +358,9 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 ### LLM & AI clients
 
 * 🌟 [openai-php/laravel](https://github.com/openai-php/laravel "Link to resource") ⭐ 3,751 | 🐛 13 | 🌐 PHP | 📅 2026-07-27 – ![GitHub stars](https://img.shields.io/github/stars/openai-php/laravel?style=social) Laravel OpenAI integration
-* 🌟 [laravel/boost](https://github.com/laravel/boost "Link to resource") ⭐ 3,605 | 🐛 29 | 🌐 PHP | 📅 2026-09-03 – ![GitHub stars](https://img.shields.io/github/stars/laravel/boost?style=social) Official Laravel Boost: a development server and AI context provider that accelerates AI-assisted code generation by giving AI tools detailed insight into your Laravel app (MCP server, schema inspection, docs + guidelines)
-* 🌟 [laravel/ai](https://github.com/laravel/ai "Link to resource") ⭐ 1,142 | 🐛 56 | 🌐 PHP | 📅 2026-09-03 – ![GitHub stars](https://img.shields.io/github/stars/laravel/ai?style=social) The Laravel AI SDK: a unified, expressive Laravel API for interacting with AI providers (LLMs, images, embeddings, agents, tools)
-* [maestroerror/LarAgent](https://github.com/maestroerror/LarAgent "Link to resource") ⭐ 642 | 🐛 8 | 🌐 PHP | 📅 2026-08-20 – AI agent development framework for Laravel: define agents, tools, workflows, and manage LLM interactions with an Eloquent-style API
+* 🌟 [laravel/boost](https://github.com/laravel/boost "Link to resource") ⭐ 3,608 | 🐛 27 | 🌐 PHP | 📅 2026-09-05 – ![GitHub stars](https://img.shields.io/github/stars/laravel/boost?style=social) Official Laravel Boost: a development server and AI context provider that accelerates AI-assisted code generation by giving AI tools detailed insight into your Laravel app (MCP server, schema inspection, docs + guidelines)
+* 🌟 [laravel/ai](https://github.com/laravel/ai "Link to resource") ⭐ 1,144 | 🐛 56 | 🌐 PHP | 📅 2026-09-04 – ![GitHub stars](https://img.shields.io/github/stars/laravel/ai?style=social) The Laravel AI SDK: a unified, expressive Laravel API for interacting with AI providers (LLMs, images, embeddings, agents, tools)
+* [maestroerror/LarAgent](https://github.com/maestroerror/LarAgent "Link to resource") ⭐ 642 | 🐛 7 | 🌐 PHP | 📅 2026-08-20 – AI agent development framework for Laravel: define agents, tools, workflows, and manage LLM interactions with an Eloquent-style API
 * 🌟 [php-mcp/laravel](https://github.com/php-mcp/laravel "Link to resource") ⭐ 476 | 🐛 11 | 🌐 PHP | 📅 2026-03-29 – ![GitHub stars](https://img.shields.io/github/stars/php-mcp/laravel?style=social) – Laravel package for building Model Context Protocol (MCP) servers and exposing application tools to LLMs
 * [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server "Link to resource") ⭐ 332 | 🐛 4 | 🌐 PHP | 📅 2026-04-26 – Laravel package for building secure Model Context Protocol (MCP) servers using Streamable HTTP/SSE, enabling real-time communication between LLM agents and application tools
 * [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk "Link to resource") ⭐ 295 | 🐛 0 | 🌐 PHP | 📅 2026-08-24 – Laravel AI Agent Development Kit for building autonomous agents with tools, persistent memory, workflows, streaming, evaluations, tracing, and Prism-powered multi-model support
@@ -381,8 +381,8 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 ### Data & DTO tools
 
-* 🌟 [prism-php/prism](https://github.com/prism-php/prism "Link to resource") ⭐ 2,422 | 🐛 113 | 🌐 PHP | 📅 2026-03-20 – ![GitHub stars](https://img.shields.io/github/stars/prism-php/prism?style=social) Unified Laravel-native interface for working with LLMs (OpenAI, Anthropic, Gemini, Ollama, etc.), supporting text generation, structured outputs, tools/function calling, and multi-step AI workflows
-* [spatie/laravel-data](https://github.com/spatie/laravel-data "Link to resource") ⭐ 1,787 | 🐛 11 | 🌐 PHP | 📅 2026-09-01 – Typed DTOs for API & AI responses
+* 🌟 [prism-php/prism](https://github.com/prism-php/prism "Link to resource") ⭐ 2,422 | 🐛 112 | 🌐 PHP | 📅 2026-03-20 – ![GitHub stars](https://img.shields.io/github/stars/prism-php/prism?style=social) Unified Laravel-native interface for working with LLMs (OpenAI, Anthropic, Gemini, Ollama, etc.), supporting text generation, structured outputs, tools/function calling, and multi-step AI workflows
+* [spatie/laravel-data](https://github.com/spatie/laravel-data "Link to resource") ⭐ 1,788 | 🐛 11 | 🌐 PHP | 📅 2026-09-01 – Typed DTOs for API & AI responses
 * [jeremysalmon/LaravelLLMContext](https://github.com/jeremysalmon/LaravelLLMContext "Link to resource") ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2024-11-11 – Laravel package for managing and applying contextual data in LLM interactions
 
 ### Localization & Translation
@@ -405,18 +405,18 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 ### Search & vector search
 
-* 🌟 [laravel/scout](https://github.com/laravel/scout "Link to resource") ⭐ 1,678 | 🐛 8 | 🌐 PHP | 📅 2026-09-02 – ![GitHub stars](https://img.shields.io/github/stars/laravel/scout?style=social) – Search abstraction (useful for vector search)
+* 🌟 [laravel/scout](https://github.com/laravel/scout "Link to resource") ⭐ 1,677 | 🐛 8 | 🌐 PHP | 📅 2026-09-02 – ![GitHub stars](https://img.shields.io/github/stars/laravel/scout?style=social) – Search abstraction (useful for vector search)
 * [teamtnt/laravel-scout-tntsearch-driver](https://github.com/teamtnt/laravel-scout-tntsearch-driver "Link to resource") ⭐ 1,135 | 🐛 0 | 🌐 PHP | 📅 2026-08-18 – Local full-text search
 
 ***
 
 ## Symfony & Framework Integrations
 
-* 🌟 [symfony/ai](https://github.com/symfony/ai) ⭐ 1,195 | 🐛 174 | 🌐 PHP | 📅 2026-09-03 – ![GitHub stars](https://img.shields.io/github/stars/symfony/ai?style=social "Link to resource") – Symfony AI: built-in AI components and bundles for Symfony apps
+* 🌟 [symfony/ai](https://github.com/symfony/ai) ⭐ 1,195 | 🐛 164 | 🌐 PHP | 📅 2026-09-05 – ![GitHub stars](https://img.shields.io/github/stars/symfony/ai?style=social "Link to resource") – Symfony AI: built-in AI components and bundles for Symfony apps
 * [openai-php/symfony](https://github.com/openai-php/symfony "Link to resource") ⭐ 220 | 🐛 2 | 🌐 PHP | 📅 2026-08-04 – OpenAI PHP for Symfony integration
-* 🧪 [symfony/ai-platform](https://github.com/symfony/ai-platform "Link to resource") ⭐ 54 | 🐛 0 | 🌐 PHP | 📅 2026-09-03 – Experimental Symfony AI Platform component providing a unified abstraction for interacting with AI models, providers, messages, embeddings, speech, and provider-specific bridge packages
+* 🧪 [symfony/ai-platform](https://github.com/symfony/ai-platform "Link to resource") ⭐ 54 | 🐛 0 | 🌐 PHP | 📅 2026-09-04 – Experimental Symfony AI Platform component providing a unified abstraction for interacting with AI models, providers, messages, embeddings, speech, and provider-specific bridge packages
 * [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle "Link to resource") ⭐ 50 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 – Symfony bundle for exposing MCP tools, prompts, and resources over HTTP or STDIO using the official MCP SDK
-* 🧪 [symfony/ai-agent](https://github.com/symfony/ai-agent "Link to resource") ⭐ 32 | 🐛 0 | 🌐 PHP | 📅 2026-09-03 – Symfony AI Agent component for building agentic applications that interact with users, execute tasks, and manage workflows
+* 🧪 [symfony/ai-agent](https://github.com/symfony/ai-agent "Link to resource") ⭐ 32 | 🐛 0 | 🌐 PHP | 📅 2026-09-04 – Symfony AI Agent component for building agentic applications that interact with users, execute tasks, and manage workflows
 * 🧪 [symfony/ai-bundle](https://github.com/symfony/ai-bundle "Link to resource") ⭐ 32 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 – Symfony integration bundle that brings together Symfony AI components for agents, chat, platforms, stores, RAG, tools, and configuration
 * [symfony/ai-store](https://github.com/symfony/ai-store "Link to resource") ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 – Symfony AI component providing a vector store abstraction for semantic search and RAG workflows
 * [soleinjast/symfony-markdown-response-bundle](https://github.com/soleinjast/symfony-markdown-response-bundle "Link to resource") ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-02-21 – Symfony bundle that automatically serves Markdown versions of HTML responses to clients
@@ -425,7 +425,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 ## WordPress Integrations
 
-* [WordPress/php-ai-client](https://github.com/WordPress/php-ai-client "Link to resource") ⭐ 306 | 🐛 68 | 🌐 PHP | 📅 2026-09-03 – Provider-agnostic PHP AI SDK offering a unified API for interacting with multiple LLM providers (OpenAI, Anthropic, Gemini, etc.), supporting text, image, speech, streaming, and multimodal operations
+* [WordPress/php-ai-client](https://github.com/WordPress/php-ai-client "Link to resource") ⭐ 307 | 🐛 68 | 🌐 PHP | 📅 2026-09-03 – Provider-agnostic PHP AI SDK offering a unified API for interacting with multiple LLM providers (OpenAI, Anthropic, Gemini, etc.), supporting text, image, speech, streaming, and multimodal operations
 
 ***
 
@@ -433,7 +433,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 ### General
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php "Link to resource") ⭐ 32,675 | 🐛 85 | 📅 2026-07-13
+* [Awesome PHP](https://github.com/ziadoz/awesome-php "Link to resource") ⭐ 32,676 | 🐛 85 | 📅 2026-07-13
 * 🧪 [dykyi-roman/awesome-claude-code](https://github.com/dykyi-roman/awesome-claude-code "Link to resource") ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-08-16 – Curated collection of commands, agents, skills, hooks, and tools for enhancing Claude Code AI workflows
 
 ### Courses & Tutorials
@@ -443,7 +443,7 @@ Not all projects are tagged yet – we're gradually adding markers as the ecosys
 
 ### ML / AI Platforms
 
-* [tensorflow/tfjs](https://github.com/tensorflow/tfjs "Link to resource") ⭐ 19,133 | 🐛 382 | 🌐 TypeScript | 📅 2026-06-23 – JavaScript machine learning platform for training and running models in the browser or Node.js (TensorFlow\.js)
+* [tensorflow/tfjs](https://github.com/tensorflow/tfjs "Link to resource") ⭐ 19,134 | 🐛 382 | 🌐 TypeScript | 📅 2026-06-23 – JavaScript machine learning platform for training and running models in the browser or Node.js (TensorFlow\.js)
 * [ONNX Runtime](https://onnxruntime.ai "Link to resource") – Cross-platform, high performance ML inferencing and training accelerator
 
 ### Learning Resources
@@ -479,4 +479,4 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details, including criteria fo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
