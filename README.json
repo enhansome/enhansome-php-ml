@@ -91,7 +91,7 @@
                 "open_issues": 25,
                 "owner": "openai-php",
                 "repo": "client",
-                "stars": 5837,
+                "stars": 5835,
                 "topics": [
                   "api",
                   "client",
@@ -162,7 +162,7 @@
                 "open_issues": 25,
                 "owner": "openai-php",
                 "repo": "client",
-                "stars": 5837,
+                "stars": 5835,
                 "topics": [
                   "api",
                   "client",
@@ -223,8 +223,8 @@
                 "id": 672847735,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-09T17:46:41Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-15T15:44:26Z",
+                "open_issues": 46,
                 "owner": "LLPhant",
                 "repo": "LLPhant",
                 "stars": 1721,
@@ -799,7 +799,7 @@
             "open_issues": 24,
             "owner": "Intervention",
             "repo": "image",
-            "stars": 14389,
+            "stars": 14388,
             "topics": [
               "gd",
               "image",
@@ -823,7 +823,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-05-15T07:52:56Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "aschmelyun",
             "repo": "subvert",
             "stars": 868,
@@ -1349,8 +1349,8 @@
                 "id": 11478636,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-14T15:53:49Z",
-                "open_issues": 61,
+                "last_commit": "2026-11-15T14:59:44Z",
+                "open_issues": 59,
                 "owner": "zephir-lang",
                 "repo": "zephir",
                 "stars": 3380,
@@ -1416,7 +1416,7 @@
             "open_issues": 25,
             "owner": "openai-php",
             "repo": "client",
-            "stars": 5837,
+            "stars": 5835,
             "topics": [
               "api",
               "client",
@@ -1450,7 +1450,7 @@
             "open_issues": 23,
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 5087,
+            "stars": 5089,
             "topics": [
               "agent",
               "agi",
@@ -1632,7 +1632,7 @@
             "open_issues": 1,
             "owner": "aimeos",
             "repo": "prisma",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "api",
               "llm",
@@ -2282,7 +2282,7 @@
                 "open_issues": 3,
                 "owner": "logiscape",
                 "repo": "mcp-sdk-php",
-                "stars": 370,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:58.847Z"
@@ -2642,7 +2642,7 @@
             "open_issues": 17,
             "owner": "pgvector",
             "repo": "pgvector",
-            "stars": 23679,
+            "stars": 23686,
             "topics": [
               "approximate-nearest-neighbor-search",
               "nearest-neighbor-search"
@@ -2662,8 +2662,8 @@
             "id": 672847735,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-09T17:46:41Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-15T15:44:26Z",
+            "open_issues": 46,
             "owner": "LLPhant",
             "repo": "LLPhant",
             "stars": 1721,
@@ -2950,7 +2950,7 @@
             "open_issues": 4,
             "owner": "thephpleague",
             "repo": "csv",
-            "stars": 3479,
+            "stars": 3480,
             "topics": [
               "csv",
               "csv-converter",
@@ -2975,7 +2975,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-01T20:35:29Z",
-            "open_issues": 33,
+            "open_issues": 35,
             "owner": "cocur",
             "repo": "slugify",
             "stars": 2894,
@@ -3108,7 +3108,7 @@
             "open_issues": 2,
             "owner": "paperdoc-dev",
             "repo": "paperdoc-lib",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:58.847Z"
@@ -3131,11 +3131,11 @@
             "id": 941562247,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-14T17:09:41Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-14T18:11:43Z",
+            "open_issues": 7,
             "owner": "neuron-core",
             "repo": "neuron-ai",
-            "stars": 2174,
+            "stars": 2176,
             "topics": [
               "agent",
               "agentic-ai",
@@ -3167,7 +3167,7 @@
             "open_issues": 83,
             "owner": "googleapis",
             "repo": "google-cloud-php",
-            "stars": 1182,
+            "stars": 1183,
             "topics": [
               "google-cloud-platform",
               "php"
@@ -3409,10 +3409,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-10T17:23:18Z",
-            "open_issues": 53,
+            "open_issues": 51,
             "owner": "nunomaduro",
             "repo": "collision",
-            "stars": 4663,
+            "stars": 4664,
             "topics": [
               "cli",
               "collision",
@@ -3657,7 +3657,7 @@
                 "open_issues": 14,
                 "owner": "openai-php",
                 "repo": "laravel",
-                "stars": 3767,
+                "stars": 3766,
                 "topics": [
                   "client",
                   "laravel",
@@ -3682,7 +3682,7 @@
                 "open_issues": 17,
                 "owner": "laravel",
                 "repo": "boost",
-                "stars": 3691,
+                "stars": 3690,
                 "topics": [
                   "ai",
                   "dev",
@@ -3704,10 +3704,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-13T16:39:33Z",
-                "open_issues": 34,
+                "open_issues": 36,
                 "owner": "laravel",
                 "repo": "ai",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:58.847Z"
@@ -4123,7 +4123,7 @@
               "description": "Laravel package for interchangeable LLM providers, allowing drop-in replacements of large language models",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Wrapper around the most popular LLMs that allows drop-in replacement of large language models in Laravel.",
                 "homepage": null,
                 "id": 863460367,
@@ -4536,7 +4536,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-12T15:11:48Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "laravel",
                 "repo": "scout",
                 "stars": 1682,
@@ -4601,7 +4601,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-14T13:48:44Z",
-            "open_issues": 213,
+            "open_issues": 214,
             "owner": "symfony",
             "repo": "ai",
             "stars": 1248,
@@ -4846,7 +4846,7 @@
                 "open_issues": 83,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32803,
+                "stars": 32801,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -4875,7 +4875,7 @@
                 "open_issues": 0,
                 "owner": "dykyi-roman",
                 "repo": "awesome-claude-code",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:58.847Z"
@@ -4900,7 +4900,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-23T00:04:38Z",
-                "open_issues": 386,
+                "open_issues": 388,
                 "owner": "tensorflow",
                 "repo": "tfjs",
                 "stars": 19160,
@@ -4929,7 +4929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:19:32.994Z",
+    "last_updated": "2026-11-15T18:00:06.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most comprehensive curated list of Machine Learning, Artificial Intelligence, NLP, LLM, and Data Science libraries for PHP",
